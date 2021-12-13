@@ -1,11 +1,38 @@
-title: My cool site
-description: Text about my cool site
+# themeNoPipe: true
+
+title: 전쟁과여성인권박물관
+description: 전쟁과여성인권박물관 홈페이지에 오신것을 환영합니다.
 images:
-  - site-feature-image.jpg
+  - img/site-feature-image.png
+logo: images/logo-main.png
 
 license:
-  title_of_work: This website
-  link_to_work: URL
-  createor_of_work: NAME
-  link_to_creator_profile: URL
-  year_of_creation: 2021
+  title_of_work: 전쟁과여성인권박물관
+  link_to_work: https://www.womenandwarmuseum.net/
+  createor_of_work: 팀두루미
+  link_to_creator_profile: https://durumi.io
+  year_of_creation: 2021  
+
+featuredImages:
+  - image1.png
+  - image2.jpg
+
+footer:
+  전화: 02-392-5252
+  팩스: 02-332-5256
+  주소: 서울특별시 마포구 월드컵북로 11길 20
+  사업자등록번호: 219-82-61946
+  이메일: museum@womenandwar.net
+  url: https://www.womenandwarmuseum.net/
+  fb: https://www.facebook.com/warwomenmuseum/
+  youtube: https://www.youtube.com/channel/UCQD1q6jrJtLg8jXrora2jUg
+  instagram: https://www.instagram.com/war_women_museum/?hl=ko
+
+googleFonts:
+  - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
+  - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap
+
+cfImagePrefix: 'https://kctu-photo.durumi.io/cdn-cgi/image'
+cfImageStyles:
+  thumb: 'fit=scale-down,width=300'
+  full: 'fit=scale-down,width=1920'

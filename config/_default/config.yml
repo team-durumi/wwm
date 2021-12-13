@@ -1,5 +1,15 @@
-# https://gohugo.io/getting-started/configuration/
+title: 전쟁과여성인권박물관
+baseURL: https://production.womenandwarmuseum.net
 
-title: Hugo project
-languageCode: en-us
+languageCode: ko-kr
+defaultContentLanguage: ko
 hasCJKLanguage: true
+paginate: 5
+
+build:
+  writeStats: true
+
+googleAnalytics:
+
+taxonomies:
+  tag: tags
