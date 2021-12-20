@@ -63,6 +63,7 @@ collections:
       - { label: '대표이미지', name: 'image', widget: 'image' }
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개' }
+      - { label: '메인 공개', name: 'always', widget: 'boolean', default: false, hint: 'true 상시공개 교육프로그램' }      
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정' }       
   - name: 'resources'
     label: '교육자료'
