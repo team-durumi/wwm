@@ -4,6 +4,5 @@ go 1.17
 
 require (
 	github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0 // indirect
-	github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6 // indirect
-	github.com/team-durumi/theme-wwm v0.0.0-20211213091101-0bfe39063685 // indirect
+	github.com/team-durumi/theme-wwm v0.0.0-20211220021544-0451db127033 // indirect
 )

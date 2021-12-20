@@ -1,6 +1,4 @@
 github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0 h1:Gc/99KUrAQkZlnoFcCaxWmYHmqzWgTSnYB+Pv4vNe4M=
 github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0/go.mod h1:uskmdVlDfz8aTjohnPUlsAfs5qFFTyfivqwsWXaQvgA=
-github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6 h1:PboSCXkAHe8rxzNniAMCa+kLbn84IqoZYTb/MMSTHpQ=
-github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6/go.mod h1:DDfMJGftuK8bUsDJdl3nM/vlzAvSjVNi2IejQleS5tY=
-github.com/team-durumi/theme-wwm v0.0.0-20211213091101-0bfe39063685 h1:EiEeETB+9PkVvwDBJVuGyLv0AN3dChYyhfL0LcFJBIY=
-github.com/team-durumi/theme-wwm v0.0.0-20211213091101-0bfe39063685/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20211220021544-0451db127033 h1:M3/B9fONZwpO65sKo05kYvRF8t3kRTx0+HufGGAFMnw=
+github.com/team-durumi/theme-wwm v0.0.0-20211220021544-0451db127033/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
