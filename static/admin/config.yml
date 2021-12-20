@@ -34,7 +34,7 @@ collections:
       - { label: '대표이미지', name: 'image', widget: 'image' }
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', hint: 'true 메인공개' }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }         
+      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }
   - name: 'featured'
     label: '이달의 기록'
     folder: 'content/archive/featured'
@@ -85,7 +85,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: '제목', name: 'title', widget: 'string' }
       - { label: '날짜', name: 'date', widget: 'datetime' }
@@ -93,4 +93,4 @@ collections:
       - { label: '대표이미지', name: 'image', widget: 'image' }
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', hint: 'true 메인공개' }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }                                     
+      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }
