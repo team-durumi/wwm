@@ -61,7 +61,6 @@ collections:
       - { label: '대표이미지', name: 'image', widget: 'image' }
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', hint: 'true 메인공개' }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }
   - name: 'resources'
     label: '교육자료'
     folder: 'content/research-and-learning/resources'
@@ -80,7 +79,7 @@ collections:
     create: true
     slug: '{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
