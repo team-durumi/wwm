@@ -42,6 +42,7 @@ collections:
     slug: '{{slug}}'
     editor:
       preview: false
+    fields:
       - { label: '제목', name: 'title', widget: 'string' }
       - { label: '날짜', name: 'date', widget: 'datetime' }
       - { label: '요약', name: 'summary', widget: 'string' }
