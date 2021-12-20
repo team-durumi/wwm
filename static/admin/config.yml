@@ -43,13 +43,10 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: '제목', name: 'title', widget: 'string' }
-      - { label: '날짜', name: 'date', widget: 'datetime' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: '요약', name: 'summary', widget: 'string' }
-      - { label: '대표이미지', name: 'image', widget: 'image' }
-      - { label: '본문', name: 'body', widget: 'markdown' }
-      - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', hint: 'true 메인공개' }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'courses'
     label: '교육신청'
     folder: 'content/research-and-learning/courses'
@@ -73,25 +70,19 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: '제목', name: 'title', widget: 'string' }
-      - { label: '날짜', name: 'date', widget: 'datetime' }
-      - { label: '요약', name: 'summary', widget: 'string' }
-      - { label: '대표이미지', name: 'image', widget: 'image' }
-      - { label: '본문', name: 'body', widget: 'markdown' }
-      - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', hint: 'true 메인공개' }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'events'
     label: '학술행사'
     folder: 'content/research-and-learning/events'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
-      - { label: '제목', name: 'title', widget: 'string' }
-      - { label: '날짜', name: 'date', widget: 'datetime' }
-      - { label: '요약', name: 'summary', widget: 'string' }
-      - { label: '대표이미지', name: 'image', widget: 'image' }
-      - { label: '본문', name: 'body', widget: 'markdown' }
-      - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', hint: 'true 메인공개' }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', hint: 'true 목록고정' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' } 
