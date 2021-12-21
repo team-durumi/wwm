@@ -98,10 +98,10 @@ collections:
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정' }
   - name: 'volunteer'
     label: '자원활동신청 ON/OFF'
-    folder: 'content/connect/volunteer'
-    create: false
-    editor:
-      preview: false
-    fields:
-      - { label: '제목', name: 'title', widget: 'string' }
-      - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open / close' }                                         
+    files:
+      - label: "자원활동신청 ON/OFF"
+        name: "consulting-info"
+        file: "content/connect/volunteer.md"
+        fields:
+          - { label: '제목', name: 'title', widget: 'string' }
+          - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open / close' } 
