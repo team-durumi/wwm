@@ -12,6 +12,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: '순서', name: 'weight', widget: 'string' }    
       - { label: '상단메세지', name: 'upper_message', widget: 'string', required: false }
       - { label: '제목', name: 'title', widget: 'string', required: false }
       - { label: '부제목', name: 'sub_title', widget: 'string', required: false }
