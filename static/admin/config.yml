@@ -100,8 +100,8 @@ collections:
     label: '자원활동신청 ON/OFF'
     files:
       - label: "자원활동신청 ON/OFF"
-        name: "consulting-info"
+        name: "volunteer-form-status"
         file: "content/connect/volunteer.md"
         fields:
           - { label: '제목', name: 'title', widget: 'string' }
-          - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open / close' } 
+          - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open 폼 공개' } 
