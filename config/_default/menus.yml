@@ -19,15 +19,15 @@ main:
     url: /exhibition
     weight: -100
   - name: 상설전시
-    url: /exhibition/permanent
+    url: /exhibition
     weight: 1
     parent: 전시
   - name: 특별전시
-    url: /exhibition/special
+    url: /exhibition/ex-04
     weight: 2
     parent: 전시
   - name: 소장품
-    url: /exhibition/collections
+    url: /items
     weight: 4
     parent: 전시
 
@@ -51,7 +51,7 @@ main:
     url: /research-and-learning
     weight: -90
   - name: 온라인교육
-    url: research-and-learning/elearning
+    url: research-and-learning/e-learning
     weight: 1
     parent: 연구/교육   
   - name: 교육신청
