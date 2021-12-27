@@ -11,11 +11,13 @@ license:
   link_to_work: https://www.womenandwarmuseum.net/
   createor_of_work: 팀두루미
   link_to_creator_profile: https://durumi.io
-  year_of_creation: 2021  
+  year_of_creation: 2021
 
 featuredImages:
   - image1.png
   - image2.jpg
+
+bookingNaver: https://docs.google.com/forms/d/17Ao2Ly8M5YQT_dhy60_PXvN16XM6vohfoZn31lRvqeg/viewform?edit_requested=true
 
 footer:
   전화: 02-392-5252
@@ -36,3 +38,10 @@ cfImagePrefix: 'https://durumi.io/cdn-cgi/image'
 cfImageStyles:
   thumb: 'fit=scale-down,width=300'
   full: 'fit=scale-down,width=1920'
+
+stibee:
+  accessToken: DONTCOMMIT
+  listIdDev: 105093
+  listIdProd: 112752
+  endpointEmailList: 'https://stibee.com/api/v1.0/feeds'
+  enpointSubscribe: 'https://page.stibee.com/api/v1.0/lists'
