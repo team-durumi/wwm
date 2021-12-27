@@ -18,14 +18,6 @@ main:
   - name: 전시
     url: /exhibition
     weight: -100
-  - name: 상설전시
-    url: /exhibition
-    weight: 1
-    parent: 전시
-  - name: 특별전시
-    url: /exhibition/ex-04
-    weight: 2
-    parent: 전시
   - name: 소장품
     url: /items
     weight: 4
@@ -34,10 +26,6 @@ main:
   - name: 아카이브
     url: /archive
     weight: -90
-  - name: 이달의 기록
-    url: /archive/featured
-    weight: 1
-    parent: 아카이브
   - name: 기록물 이용
     url: /archive/usage
     weight: 2
