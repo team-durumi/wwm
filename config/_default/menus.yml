@@ -18,6 +18,10 @@ main:
   - name: 전시
     url: /exhibition
     weight: -100
+  - name: 상설전시
+    url: /exhibition
+    weight: 1
+    parent: 전시    
   - name: 소장품
     url: /items
     weight: 4
@@ -43,7 +47,7 @@ main:
     weight: 1
     parent: 연구/교육   
   - name: 교육신청
-    url: /research-and-learning/courses
+    url: /research-and-learning/programs
     weight: 2
     parent: 연구/교육
   - name: 교육자료
