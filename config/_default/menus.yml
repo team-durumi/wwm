@@ -30,6 +30,10 @@ main:
   - name: 아카이브
     url: /archive
     weight: -90
+  - name: 이달의 기록
+    url: /archive/featured
+    weight: 1
+    parent: 아카이브    
   - name: 기록물 이용
     url: /archive/usage
     weight: 2
@@ -42,11 +46,7 @@ main:
   - name: 연구/교육
     url: /research-and-learning
     weight: -90
-  - name: 온라인교육
-    url: research-and-learning/e-learning
-    weight: 1
-    parent: 연구/교육   
-  - name: 교육신청
+  - name: 프로그램
     url: /research-and-learning/programs
     weight: 2
     parent: 연구/교육
