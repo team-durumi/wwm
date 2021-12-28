@@ -25,6 +25,7 @@ collections:
     folder: 'content/connect/notice'
     create: true
     slug: '{{slug}}'
+    filter: {field: "invisible", value: "true"}
     editor:
       preview: false
     fields:
@@ -40,6 +41,7 @@ collections:
     folder: 'content/archive/featured'
     create: true
     slug: '{{slug}}'
+    filter: {field: "invisible", value: "true"}    
     editor:
       preview: false
     fields:
@@ -55,6 +57,7 @@ collections:
     folder: 'content/research-and-learning/programs'
     create: true
     slug: '{{slug}}'
+    filter: {field: "invisible", value: "true"}    
     editor:
       preview: false
     fields:
@@ -71,6 +74,7 @@ collections:
     folder: 'content/research-and-learning/resources'
     create: true
     slug: '{{slug}}'
+    filter: {field: "invisible", value: "true"}    
     editor:
       preview: false
     fields:
@@ -86,6 +90,7 @@ collections:
     folder: 'content/research-and-learning/events'
     create: true
     slug: '{{slug}}'
+    filter: {field: "invisible", value: "true"}    
     editor:
       preview: false
     fields:
