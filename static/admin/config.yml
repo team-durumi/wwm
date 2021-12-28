@@ -51,7 +51,7 @@ collections:
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }       
   - name: 'programs'
-    label: '교육신청'
+    label: '프로그램'
     folder: 'content/research-and-learning/programs'
     create: true
     slug: '{{slug}}'
