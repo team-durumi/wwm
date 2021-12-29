@@ -25,7 +25,6 @@ collections:
     folder: 'content/connect/notice'
     create: true
     slug: '{{slug}}'
-    filter: {field: "invisible", value: "true"}
     editor:
       preview: false
     fields:
@@ -36,13 +35,11 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
-      - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
   - name: 'featured'
     label: '이달의 기록'
     folder: 'content/archive/featured'
     create: true
-    slug: '{{slug}}'
-    filter: {field: "invisible", value: "true"}    
+    slug: '{{slug}}' 
     editor:
       preview: false
     fields:
@@ -53,7 +50,6 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }       
-      - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
   - name: 'programs'
     label: '프로그램'
     folder: 'content/research-and-learning/programs'
@@ -70,14 +66,13 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '메인 공개', name: 'always', widget: 'boolean', default: false, hint: 'true 상시공개 교육프로그램', required: false }      
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }       
+      - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
       - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
   - name: 'resources'
     label: '교육자료'
     folder: 'content/research-and-learning/resources'
     create: true
-    slug: '{{slug}}'
-    filter: {field: "invisible", value: "true"}    
+    slug: '{{slug}}' 
     editor:
       preview: false
     fields:
@@ -88,13 +83,11 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
-      - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
   - name: 'events'
     label: '학술행사'
     folder: 'content/research-and-learning/events'
     create: true
     slug: '{{slug}}'
-    filter: {field: "invisible", value: "true"}    
     editor:
       preview: false
     fields:
@@ -105,7 +98,6 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
-      - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
   - name: 'volunteer'
     label: '자원활동신청 ON/OFF'
     files:
