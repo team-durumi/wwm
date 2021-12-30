@@ -1,5 +1,6 @@
 ---
 title: "[모집] 대학생 SNS 기자단 모집 안내"
+author: 관리자
 date: 2021-12-30T05:11:30.976Z
 image: /img/대학생-sns-기자단-모집-웹자보-최종.png
 home_sticky: true
