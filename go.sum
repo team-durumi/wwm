@@ -1,4 +1,4 @@
 github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0 h1:Gc/99KUrAQkZlnoFcCaxWmYHmqzWgTSnYB+Pv4vNe4M=
 github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0/go.mod h1:uskmdVlDfz8aTjohnPUlsAfs5qFFTyfivqwsWXaQvgA=
-github.com/team-durumi/theme-wwm v0.0.0-20211229033109-8241efed654c h1:sajHN31+sUp9yy7jcAknxsibfmfVeZSAu77XamBdOlM=
-github.com/team-durumi/theme-wwm v0.0.0-20211229033109-8241efed654c/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20211231065858-0c45f6a92b4d h1:EmK0j9+qCpPMSxL+SpD6emwzmer6YClxLVsV3T7KTJA=
+github.com/team-durumi/theme-wwm v0.0.0-20211231065858-0c45f6a92b4d/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
