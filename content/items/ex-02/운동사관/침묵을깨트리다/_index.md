@@ -1,5 +1,5 @@
 ---
-lastmod: '2021-10-26'
+lastmod: '2022-01-03'
 title: 침묵을깨트리다
 type: page
 ---

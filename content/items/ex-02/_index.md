@@ -1,5 +1,5 @@
 ---
-lastmod: '2021-10-26'
-title: 2층 전시
+lastmod: '2022-01-03'
+title: ex-02
 type: page
 ---
