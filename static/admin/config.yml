@@ -57,7 +57,6 @@ collections:
     folder: 'content/research-and-learning/programs'
     create: true
     slug: '{{slug}}'
-    filter: {field: "invisible", value: "true"}    
     editor:
       preview: false
     fields:
