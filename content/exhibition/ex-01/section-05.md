@@ -6,5 +6,35 @@ summary: 피해자들이 절규하는 고통의 목소리가 사진과 함께 �
 weight: 5
 image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s4-item1.png
 layout: view01
-resources:    
+resources:
+- partial_layout: full-1
+  components: 
+  - name: 호소의벽
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s4-item1.png
+    description: 
+    target:
+- partial_layout: horizontal-2
+  components: 
+    - name: 계단전시
+      params:
+        icon: photo
+      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/section5/s5-02.png
+      description:
+      target:
+    - name: 내가 살아남은 게 꿈 같아
+      params:
+        icon: poem
+      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/section5/s5-03.png
+      description:
+      target: 
+- partial_layout: full-1
+  components: 
+    - name: 할머니들
+      params:
+        icon: photo
+      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/section5/s5-04.png
+      description:  
+      target:     
 ---

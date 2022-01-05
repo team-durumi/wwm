@@ -2,9 +2,9 @@
 title: 공지사항
 date: 2021-12-24T20:23:39+09:00
 banner:
-  title: 평화메세지
-  summary: 오시는길에 확인할 수 있는 평화 메세지
+  title: 소장품 구두
+  summary: 지하전시장
   imageLink: /img/pagebanner/connect/notice.png
-  itemLink: /items/ex-02/운동사관/침묵을깨트리다/첫수요집회-사본/
+  itemLink: /items/1b1층/지하전시관/l1755048/
 invisible: true
 ---

@@ -3,10 +3,10 @@ title: 관람예약 및 안내
 date: 2011-11-17
 layout: section_single
 banner:
-  title: 평화메세지
-  summary: 오시는길에 확인할 수 있는 평화 메세지
+  title: 티켓 속 할머니
+  summary: 현재의 우리의 삶과 과거의 그녀들의 삶을 연결해주는 첫 번째 연결고리
   imageLink: /img/pagebanner/guide/admission.jpg
-  itemLink: /items/ex-02/운동사관/침묵을깨트리다/첫수요집회-사본/
+  itemLink: /items/ex-01/s1-item1/
 ---
 
 {{< guide/admission >}}
