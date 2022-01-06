@@ -13,7 +13,7 @@ resources:
   - year: 1924
     vertical: left
     age: 1세
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/1_김학순의+제적초본★.jpg
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/1_김학순의+제적초본.JPG
     description: "1924.10.20. \ 중국 지린 출생, \ 아버지를일찍여읨"
     target:
     target_title: 김학순의 제적초본(구 호적초본), 1980년대, 종이  
@@ -34,8 +34,8 @@ resources:
     vertical: left
     description: "기생집 수양딸로 보내져 \ 평양 기생권번에 입적 \ *수양딸 : 증언 당시 김학순이 사용한 표현을 차용"
     src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/2_평양+기성권번.jpg    
-    target:
-    target_title:    
+    target: https://www.nfm.go.kr/common/5664887/imageView.do
+    target_title: 평양 기성권번   
   - year: 1940 봄
     age: 17세 봄
     vertical: right    
@@ -196,14 +196,14 @@ resources:
     vertical: left 
     age: 69세
     description: 제1차 아시아연대회의에 참석함
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/13-2_제1차+아시아연대회의+보고서★.jpg
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/13_아시아연대회의에+참석한+김학순.jpg
     target:
     target_title: 아시아연대회의에 참석한 김학순, 1992.8.10.-11., 사진
   - year:
     vertical: right  
     age: 69세
     description: 제1차 아시아연대회의에 참석함
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/13_아시아연대회의에+참석한+김학순.TIF
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/13-2_제1차+아시아연대회의+보고서.jpg
     target:
     target_title: 제1차 아시아연대회의 보고서, 1992, 문서
   - year:
@@ -232,24 +232,22 @@ resources:
     vertical: left  
     age: 70세
     description: 제9차 재판을 위해 도쿄지방재판소에 출석함
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/16_.JPG
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/16_도쿄+기자회견.JPG
     target:
-    target_title: 1994, 사진   
-- part: part-3
-  components: 
+    target_title: 1994, 사진
   - year: 1994
-    vertical: left  
+    vertical: right 
     age: 71세
     src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/17_전후보상+6.6집회에서+발언하는+김학순.JPG
     description: 전후보상 6.6집회에 참석함
     target:
     target_title: 전후보상 6.6집회에서 발언하는 김학순, 1994.6.6., 사진   
   - year:
-    vertical: right  
+    vertical: left  
     age: 71세
     description: 일본에서 하타 총리를 면회함
   - year:
-    vertical: left  
+    vertical: right 
     age: 71세
     src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/18_'94+전후보상+국제포럼(1).jpg
     description: 전후보상 국제포럼에 참석함
@@ -272,14 +270,14 @@ resources:
   - year:
     vertical: left  
     age: 71세
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/21_구리하라+께이꼬가+김학순에게+쓴+편지★.jpg
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/21_구리하라+께이꼬가+김학순에게+쓴+편지.JPG
     description: 일본국회 앞 전후보상 촉구 단식투쟁에 참여함
     target:
     target_title: "구리하라 께이꼬가 김학순에게 쓴 편지, 오사카의 기자 구리하라 께이꼬가  김학순에게 쓴 편지. 사진과 월간지 창우신문 10월호를 함께 동봉함, 1994.10.25., 문서"
   - year:
     vertical: right  
     age: 71세
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/22_창우신문+1994년+10월호★.jpg
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/22_창우신문+1994년+10월호.JPG
     description: 일본국회 앞 전후보상 촉구 단식투쟁에 참여함
     target:
     target_title: "창우신문 1994년 10월호, 구 '위안부' 눈물의 단식 투쟁 / 한국인 할머니들 6명 개인보상 요구, 1994.10.20., 문서"
@@ -311,20 +309,9 @@ resources:
     age: 73세
     description: 일본전범입국금지 세미나에 참석함
   - year: 1997
-    vertical: left  
-    age: 74세 1997.12.16.
-    description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
-  - year:
-    vertical: right  
-    age: 74세
+    vertical: left
+    age: "74세 1997.12.16."
     src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/24_우리여성네트워크가+김학순에게+쓴+추도문.png
-    description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
-    target:
-    target_title: "우리여성네트워크가 김학순에게 쓴 추도문, 1997.12.18., 문서"
-  - year:
-    vertical: left  
-    age: 74세
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/25_김학순+장례식+참가자+일동이+작성한+추도문★.jpg
     description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
     target:
     target_title: "우리여성네트워크가 김학순에게 쓴 추도문, 1997.12.18., 문서"
