@@ -1,5 +1,5 @@
 ---
-title: "2부 | 모진삶을 거처"
+title: "2부 | 김학순 삶의 궤적을 따라"
 subtitle: 섹션02설명입니다.
 date: 2021-08-21
 author: 
@@ -315,4 +315,11 @@ resources:
     description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
     target:
     target_title: "우리여성네트워크가 김학순에게 쓴 추도문, 1997.12.18., 문서"
+  - year: 1997
+    vertical: right
+    age: "74세 1997.12.16."
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-02/25_김학순+장례식+참가자+일동이+작성한+추도문.jpg
+    description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
+    target:
+    target_title: "김학순 장례식 참가자 일동이 작성한 추도문 ; 고 김학순 할머니 이제 평안하십시오, 1997.12.18., 문서"
 ---
