@@ -1,7 +1,7 @@
 ---
 reference_code:
 media_type:
-title: 3_UN가입 신청을 위한 UN헌장 의무수락선언서에 서명하는 노태우 대통령
+title: UN가입 신청을 위한 UN헌장 의무수락선언서에 서명하는 노태우 대통령
 summary:
 image:
 description:

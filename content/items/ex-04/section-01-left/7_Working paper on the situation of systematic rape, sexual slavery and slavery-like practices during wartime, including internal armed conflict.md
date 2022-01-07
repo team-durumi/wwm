@@ -1,7 +1,7 @@
 ---
 reference_code:
 media_type:
-title: 7_Working paper on the situation of systematic rape, sexual slavery and slavery-like
+title: Working paper on the situation of systematic rape, sexual slavery and slavery-like
   practices during wartime, including internal armed conflict
 summary:
 image:

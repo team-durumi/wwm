@@ -1,7 +1,7 @@
 ---
 reference_code:
 media_type:
-title: 6_Study concerning the right to restitution, compensation and rehabilitation
+title: Study concerning the right to restitution, compensation and rehabilitation
   for victims of gross violations of human rights and fundamental freedoms
 summary:
 image:
