@@ -1,10 +1,10 @@
 ---
 reference_code:
 media_type:
-title: Mardiyem
-summary:
+title: 마르디엠 
+summary: Mardiyem,인도네시아 
 image:
-description:
+description: 
 modified_at:
 created_at:
 components:
@@ -12,3 +12,6 @@ components:
 tags:
 -
 ---
+
+1929년 출생
+1924년 연행되어 보르네오에서 일본군성노예 생활
