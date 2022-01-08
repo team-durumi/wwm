@@ -7,18 +7,82 @@ weight: 7
 image: /exhibition/ex-02/section-07/s7-items1.png
 layout: view01
 resources:
+- partial_layout: full-1
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755718.jpg
+    description: 
+    target:
 - partial_layout: diagonal-2
   components: 
-  - name: item-01
+  - name:
     params:
       icon: photo
-    src: /exhibition/ex-02/section-07/s7-items1.png
-    description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. 
-    target: /items/exhibition/exbition01/s0-item1
-  - name: item-02
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755415.jpg
+    description:
+    target:
+  - name:
     params:
       icon: photo
-    src: /exhibition/ex-02/section-07/s7-items1.png
-    description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam.
-    target: items/exhibition/exbition01/s1-item2    
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755718.jpg
+    description: 
+    target:
+- partial_layout: diagonal-2
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755719.jpg
+    description:
+    target:
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755728.jpg
+    description: 
+    target: 
+- partial_layout: diagonal-2
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755733.jpg
+    description:
+    target:
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755735.jpg
+    description: 
+    target:
+- partial_layout: diagonal-2
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755738.jpg
+    description:
+    target:
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755745.jpg
+    description: 
+    target: 
+- partial_layout: diagonal-2
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/LHS_1779.jpg
+    description:
+    target:
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/LHS_1789.jpg
+    description: 
+    target:                    
 ---

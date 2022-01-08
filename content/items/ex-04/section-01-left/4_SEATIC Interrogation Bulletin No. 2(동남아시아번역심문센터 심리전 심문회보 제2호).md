@@ -1,8 +1,8 @@
 ---
 reference_code:
 media_type:
-title: SEATIC Interrogation Bulletin No. 2(동남아시아번역심문센터 심리전 심문회보 제2호)
-summary:
+title: SEATIC Interrogation Bulletin No. 2
+summary: "SEATIC Interrogation Bulletin No. 2(동남아시아번역심문센터 심리전 심문회보 제2호), 문서, 출처 서울기록원"
 image:
 description:
 modified_at:

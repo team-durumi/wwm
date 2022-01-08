@@ -2,7 +2,7 @@
 reference_code:
 media_type:
 title: UN가입 신청을 위한 UN헌장 의무수락선언서에 서명하는 노태우 대통령
-summary:
+summary:  "UN가입 신청을 위한 UN헌장 의무수락선언서에 서명하는 노태우 대통령, 1991.7.19., 사진, 출처 국가기록원"
 image:
 description:
 modified_at:

@@ -1,9 +1,8 @@
 ---
 reference_code:
 media_type:
-title: Working paper on the situation of systematic rape, sexual slavery and slavery-like
-  practices during wartime, including internal armed conflict
-summary:
+title: "UN 인권소위원회 특별보고관 린다 챠베즈, '전시 하 조직적 강간, 성노예제 및 그와 유사한 관행에 관한 연구보고서' 제출"
+summary: Working paper on the situation of systematic rape, sexual slavery and slavery-like practices during wartime, including internal armed conflict
 image:
 description:
 modified_at:

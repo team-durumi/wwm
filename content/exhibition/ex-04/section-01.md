@@ -285,7 +285,7 @@ resources:
   - year:
     eventDate: 1991.9.18.
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/14_국회+청원을+위해+한교여연에서+열린+기자회견.JPG
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/3_UN가입+신청을+위한+UN헌장+의무수락선언서에+서명하는+노태우+대통령.JPG
     description: "남북한 UN 동시 가입"
     target: 
     target_title: "UN가입 신청을 위한 UN헌장 의무수락선언서에 서명하는 노태우 대통령, 1991.7.19., 사진, 출처 국가기록원"

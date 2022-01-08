@@ -1,7 +1,7 @@
 ---
 reference_code:
 media_type:
-title: s5-items1
+title: 일본군위안소지도
 summary:
 image:
 description:
