@@ -7,18 +7,26 @@ weight: 2
 image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s1-item1.png
 layout: view01
 resources:
+- partial_layout: full-1
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: /exhibition/ex-01/s2-item3.png
+    description:
+    target:
 - partial_layout: diagonal-2
   components: 
-  - name: item-01
+  - name:
+    params:
+      icon: photo
+    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s1-item2.png
+    description:
+    target:
+  - name:
     params:
       icon: photo
     src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s1-item1.png
-    description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. 
-    target: /items/exhibition/exbition01/s0-item1
-  - name: item-02
-    params:
-      icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s1-item1.png
-    description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam.
-    target: items/exhibition/exbition01/s1-item2    
+    description:
+    target:   
 ---
