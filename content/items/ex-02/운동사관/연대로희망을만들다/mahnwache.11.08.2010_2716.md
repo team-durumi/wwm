@@ -1,8 +1,8 @@
 ---
 reference_code:
 media_type:
-title: mahnwache.11.08.2010_2716
-summary:
+title: 독일에서의 활동
+summary: "일본군'위안부'피해를 알리는 시위를 2010년 8월 11일 독일에서 진행하였다" 
 image:
 description:
 modified_at:
