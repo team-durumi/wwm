@@ -4,7 +4,7 @@ baseURL: https://womenandwarmuseum.net
 languageCode: ko-kr
 defaultContentLanguage: ko
 hasCJKLanguage: true
-paginate: 50
+paginate: 16
 
 build:
   writeStats: true
