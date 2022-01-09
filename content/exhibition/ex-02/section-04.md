@@ -3,7 +3,7 @@ title: 생애관 1
 subtitle: 할머니들의 손때 묻은 유품들
 date: 2021-12-21
 summary: 연행 시기와 지역 등 피해 기록이 소개된 패널과 함께 피해자들의 손때 묻은 물건과 유품이 전시되어 있다. 
-weight: 4
+weight: 10
 image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/생애관1/자료/LHS_6945.jpg
 layout: view01
 resources:

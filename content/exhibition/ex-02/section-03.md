@@ -3,7 +3,7 @@ title: 생애관 1
 subtitle: ":삶을보다"
 date: 2021-12-21
 summary: 터치스크린을 이용해 사진, 신문기사, 영상증언 등 피해자들의 삶에 대한 기록을 보다 상세히 살펴본다. 터치스크린을 통해 서른 분의 할머니들을 손 끝 하나로 만나볼 수 있다.
-weight: 3
+weight: 9
 image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/생애관1/LHS_0808.jpg
 layout: view01
 resources:

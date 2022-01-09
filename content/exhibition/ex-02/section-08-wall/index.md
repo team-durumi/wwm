@@ -3,7 +3,7 @@ title: 전시장벽면
 subtitle: ":할머니들을 그리다"
 date: 2021-12-21
 summary: 할머니들의 현재와 과거를 상상력으로 표현한 그림들이다. 전시장 벽면에서 만날 수 있다.
-weight: 8
+weight: 14
 image: /exhibition/ex-02/section-08-wall/s8-items01.png
 layout: view01
 resources:
