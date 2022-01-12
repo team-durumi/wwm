@@ -101,14 +101,8 @@ collections:
       - { label: '대표이미지', name: 'image', widget: 'image', required: false }
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
-      - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
   - name: 'volunteer'
     label: '자원활동신청 ON/OFF'
     file: "content/connect/volunteer.md"
     fields:
-      - label: 'ON/OFF', 
-        name: 'status', 
-        widget: 'select',   
-        options:
-          - { label: "입력폼 활성 Open", value: "open" }
-          - { label: "비활성 Close", value: "close" }
+      - { label: '제목', name: 'show_forms', widget: 'string', hint: 'open(열기) / close(닫기)' }
