@@ -54,7 +54,7 @@ collections:
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }       
   - name: 'programs'
     label: '프로그램'
-    folder: 'content/research-and-learning/programs'
+    folder: 'content/learning-and-research/programs'
     create: true
     slug: '{{slug}}'
     editor:
@@ -72,7 +72,7 @@ collections:
       - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
   - name: 'resources'
     label: '교육자료'
-    folder: 'content/research-and-learning/resources'
+    folder: 'content/learning-and-research/resources'
     create: true
     slug: '{{slug}}' 
     editor:
@@ -86,9 +86,9 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
-  - name: 'events'
-    label: '학술행사'
-    folder: 'content/research-and-learning/events'
+  - name: 'papers'
+    label: '연구자료'
+    folder: 'content/learning-and-research/papers'
     create: true
     slug: '{{slug}}'
     editor:
@@ -110,4 +110,4 @@ collections:
         file: "content/connect/volunteer.md"
         fields:
           - { label: '제목', name: 'title', widget: 'string' }
-          - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open 폼 공개' } 
+          - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open 폼 공개' }         
