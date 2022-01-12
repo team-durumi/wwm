@@ -102,9 +102,10 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
   - name: 'volunteer'
-    label: '자원활동신청 settings'
+    label: '자원활동신청'
     files:
-      - name: "자원활동신청 open"
+      - name: "volunteer"
+        label: '자원활동신청 on/off'
         file: "content/connect/volunteer.md"
         fields:
           - { label: '자원활동신청 open', name: 'show_forms', widget: 'string', hint: 'open(열기) / close(닫기)' }
