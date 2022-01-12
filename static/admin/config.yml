@@ -107,7 +107,8 @@ collections:
     files:
       - label: "자원활동신청 ON/OFF"
         name: "volunteer-form-status"
+        widget: "select"
         file: "content/connect/volunteer.md"
-        fields:
-          - { label: '제목', name: 'title', widget: 'string' }
-          - { label: '오픈여부', name: 'status', widget: 'boolean', default: open, hint: 'open 폼 공개' }         
+        options:
+          - { label: "입력폼 활성 Open", value: "open" }
+          - { label: "비활성 Close", value: "close" }
