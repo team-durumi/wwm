@@ -8,7 +8,7 @@ description:
 modified_at:
 created_at:
 featured: https://wwm3.s3.ap-northeast-2.amazonaws.com/stores/(dvd)나지+평화를+향해+날다/20_DVD나비평화를향해날다+(1)r.jpg
-price: 
+price: 10,000
 buying_link: https://docs.google.com/forms/d/e/1FAIpQLSc9nedLjpcX4QsqHfsDClSUvnY_z8JjKZMrkfDJmnqozNUliA/viewform
 components:
 - https://wwm3.s3.ap-northeast-2.amazonaws.com/stores/(dvd)나지+평화를+향해+날다/20_DVD나비평화를향해날다+(1)r.jpg
