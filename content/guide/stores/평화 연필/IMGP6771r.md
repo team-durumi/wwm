@@ -8,7 +8,7 @@ description:
 modified_at:
 created_at:
 featured: https://wwm3.s3.ap-northeast-2.amazonaws.com/stores/평화+연필/IMGP6771r.jpg
-price: 
+price: 5,000원
 buying_link: https://docs.google.com/forms/d/e/1FAIpQLSc9nedLjpcX4QsqHfsDClSUvnY_z8JjKZMrkfDJmnqozNUliA/viewform
 components:
 - https://wwm3.s3.ap-northeast-2.amazonaws.com/stores/평화+연필/IMGP6771r.jpg
@@ -17,3 +17,8 @@ components:
 tags:
 -
 ---
+**평화연필/Pencil/鉛筆**
+
+[크기]／
+20.8cm (필통 길이) 
+19cm (연필 길이)
