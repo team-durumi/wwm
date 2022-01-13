@@ -71,6 +71,12 @@ collections:
       - { label: '모집인원', name: 'program_member', widget: 'string' }
       - { label: '문의처', name: 'program_contact', widget: 'string' }                        
       - { label: '대표이미지', name: 'image', widget: 'image' }
+      - label: "첨부파일"
+        name: "program_materials"
+        widget: "file"
+        media_library:
+          config:
+            multiple: true      
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '메인 공개', name: 'always', widget: 'boolean', default: false, hint: 'true 상시공개 교육프로그램', required: false }      
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
@@ -89,7 +95,7 @@ collections:
       - { label: '요약', name: 'summary', widget: 'string', required: false }
       - { label: '대표이미지', name: 'image', widget: 'image', required: false }
       - label: "첨부파일"
-        name: "resources_materials"
+        name: "resource_materials"
         widget: "file"
         media_library:
           config:
@@ -111,7 +117,7 @@ collections:
       - { label: '요약', name: 'summary', widget: 'string', required: false }
       - { label: '대표이미지', name: 'image', widget: 'image', required: false }
       - label: "첨부파일"
-        name: "papers_materials"
+        name: "paper_materials"
         widget: "file"
         media_library:
           config:
