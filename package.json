@@ -8,13 +8,14 @@
 	},
 	"devDependencies": {
 		"@kingshott/iodine": "^7.0.1",
+		"@tailwindcss/line-clamp": "^0.2.2",
+		"@tailwindcss/typography": "^0.4.1",
+		"alpinejs": "^3.5.1",
 		"autoprefixer": "^10.3.1",
+		"google-spreadsheet": "^3.2.0",
 		"postcss": "^8.3.6",
 		"postcss-cli": "^8.3.1",
 		"postcss-purgecss": "^2.0.3",
-		"tailwindcss": "^2.2.7",
-		"@tailwindcss/typography": "^0.4.1",
-		"@tailwindcss/line-clamp": "^0.2.2",
-		"alpinejs": "^3.5.1"
+		"tailwindcss": "^2.2.7"
 	}
 }
