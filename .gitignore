@@ -7,3 +7,6 @@
 
 drive
 
+
+# Local Netlify folder
+.netlify
