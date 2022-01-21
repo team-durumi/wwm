@@ -223,7 +223,7 @@ resources:
   - year: 1991
     eventDate: 1991.1.
     vertical: right
-    src: http://archives.kdemo.or.kr/file-img/vol01/008/578/00857862/00857862_0001.jpg
+    src: https://archives.kdemo.or.kr/file-img/vol01/008/578/00857862/00857862_0001.jpg
     description: "'아동성폭행 가해자 20년후 살인 사건' 발생"
     target: https://archives.kdemo.or.kr/isad/view/00857862
     target_title: "김부남씨의 무죄와 성폭력특별법 제정을 요구하는 성폭력특별법제정추진위원회의 성명서, 1991.8.23., 문서, 출처 한국여성단체연합, 민주화운동기념사업회"
