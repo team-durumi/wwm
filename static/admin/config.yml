@@ -81,6 +81,7 @@ collections:
       - { label: '메인 공개', name: 'always', widget: 'boolean', default: false, hint: 'true 상시공개 교육프로그램', required: false }      
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
       - { label: '관리화면 비노출', name: 'invisible', widget: 'boolean', default: false, required: false }
+      - { label: '본문', name: 'body', widget: 'markdown' }      
   - name: 'resources'
     label: '교육자료'
     folder: 'content/learning-and-research/resources'
