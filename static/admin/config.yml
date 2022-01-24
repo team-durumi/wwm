@@ -120,7 +120,7 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
-  - name: 'papers'
+  - name: 'papers-ko'
     label: '연구자료(국문)'
     folder: 'content/learning-and-research/papers/ko'
     create: true
@@ -141,7 +141,7 @@ collections:
             multiple: true
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
-  - name: 'papers'
+  - name: 'papers-en'
     label: '연구자료(영문)'
     folder: 'content/learning-and-research/papers/en'
     create: true
@@ -162,7 +162,7 @@ collections:
             multiple: true
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
-  - name: 'papers'
+  - name: 'papers-jp'
     label: '연구자료(일문)'
     folder: 'content/learning-and-research/papers/jp'
     create: true
