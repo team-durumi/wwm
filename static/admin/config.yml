@@ -84,7 +84,8 @@ collections:
       - { label: '접수', name: 'contact_type', widget: 'string', required: false }
       - { label: '대상', name: 'program_target', widget: 'string', required: false }
       - { label: '모집인원', name: 'program_member', widget: 'string', required: false }
-      - { label: '문의처', name: 'program_contact', widget: 'string', required: false }                        
+      - { label: '문의처', name: 'program_contact', widget: 'string', required: false }
+      - { label: '프로그램 신청 접수 링크', name: 'apply_link', widget: 'string', required: false } 
       - { label: '대표이미지', name: 'image', widget: 'image' }
       - label: "첨부파일"
         name: "program_materials"
