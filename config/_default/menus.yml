@@ -23,12 +23,16 @@ main:
     weight: 1
     parent: 전시
   - name: 특별전시
-    url: /exhibition/ex-04/section-01
+    url: /exhibition/ex-04/section-01/
     weight: 2
-    parent: 전시     
+    parent: 전시
+  - name: 주요 전시
+    url: /exhibition/previous
+    weight: 3
+    parent: 전시
   - name: 소장품
     url: /items
-    weight: 3
+    weight: 4
     parent: 전시
 
   - name: 자료실
@@ -45,7 +49,7 @@ main:
   - name: 기록물 기증
     url: /archive/donate
     weight: 3
-    parent: 자료실
+    parent: 자료실         
 
   - name: 소식/참여
     url: /connect
