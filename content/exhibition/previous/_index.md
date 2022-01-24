@@ -1,5 +1,5 @@
 ---
-title: 지난 전시
+title: 주요 전시
 date: 2022-01-21
 banner:
   title:
