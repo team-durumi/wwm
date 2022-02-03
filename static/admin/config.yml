@@ -81,7 +81,6 @@ collections:
       - { label: '요약', name: 'summary', widget: 'string', required: false }
       - { label: '일시', name: 'date', widget: 'datetime', required: false }
       - { label: '접수기간', name: 'application_end_date', widget: 'string', required: false }
-      - { label: '접수', name: 'contact_type', widget: 'string', required: false }
       - { label: '대상', name: 'program_target', widget: 'string', required: false }
       - { label: '모집인원', name: 'program_member', widget: 'string', required: false }
       - { label: '문의처', name: 'program_contact', widget: 'string', required: false }
@@ -108,8 +107,8 @@ collections:
       preview: false
     fields:
       - { label: '제목', name: 'title', widget: 'string' }
-      - { label: '작성자', name: 'author', widget: 'string' }      
-      - { label: '날짜', name: 'date', widget: 'datetime' }
+      - { label: '작성자', name: 'author', widget: 'string', required: false }      
+      - { label: '날짜', name: 'date', widget: 'datetime', required: false }
       - { label: '요약', name: 'summary', widget: 'string', required: false }
       - { label: '대표이미지', name: 'image', widget: 'image', required: false }
       - label: "첨부파일"
