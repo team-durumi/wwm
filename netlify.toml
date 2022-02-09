@@ -4,6 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.92.0"
+  HUGO_ENV= "production"
 
 [functions]
   directory = "functions/gsheet"
@@ -15,3 +16,5 @@
   functionsPort = 8889
   port = 8888
   targetPort = 1313
+
+
