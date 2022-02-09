@@ -51,3 +51,17 @@ github.com/team-durumi/theme-wwm v0.0.0-20220203084121-daaf377c1846 h1:V1d7x8Pbg
 github.com/team-durumi/theme-wwm v0.0.0-20220203084121-daaf377c1846/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
 github.com/team-durumi/theme-wwm v0.0.0-20220204012803-dbda8b193356 h1:Jh9q/f3nDptGwujZ723Q9lNpUVgwj9dbFkf/wzwZ0dg=
 github.com/team-durumi/theme-wwm v0.0.0-20220204012803-dbda8b193356/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220204021714-45ad1f20eeea h1:r/i9F7VwzHNZ7ZYM+j+khZEX+HnXoOPF6QrA1C9HiVQ=
+github.com/team-durumi/theme-wwm v0.0.0-20220204021714-45ad1f20eeea/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220204042105-d0ce8e94dfd2 h1:usz/TiMPLeHE37R9SCEk+5AxEZWcwVAzC2LYW5qgDH4=
+github.com/team-durumi/theme-wwm v0.0.0-20220204042105-d0ce8e94dfd2/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220204042633-7f9107db4e48 h1:rP/ea29JW98AWebHaPanRRMwCqiPWeeKW4fCn7eDuaQ=
+github.com/team-durumi/theme-wwm v0.0.0-20220204042633-7f9107db4e48/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220207103250-1610cda136f1 h1:C+0pr86pGKKeLnefuJWB7jWjc20fvQbmtJzCUmmPkgE=
+github.com/team-durumi/theme-wwm v0.0.0-20220207103250-1610cda136f1/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220209014205-f7e3e8e07f32 h1:7p2SIOlJl2mXk4OHfbj5396Rcvwdi8J2FL12TfxXFAE=
+github.com/team-durumi/theme-wwm v0.0.0-20220209014205-f7e3e8e07f32/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220209015526-a4f3b58a30cc h1:C/QKfoF+Sc9yNc64re/mi+WyurTJfyJfP1oLtmW0BI0=
+github.com/team-durumi/theme-wwm v0.0.0-20220209015526-a4f3b58a30cc/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220209020013-5bef6ab594ee h1:gXDKPxvx+33cxBRXB/bPNvbor4ZHUUz4B8Y6k6ktKJU=
+github.com/team-durumi/theme-wwm v0.0.0-20220209020013-5bef6ab594ee/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
