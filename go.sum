@@ -65,3 +65,7 @@ github.com/team-durumi/theme-wwm v0.0.0-20220209015526-a4f3b58a30cc h1:C/QKfoF+S
 github.com/team-durumi/theme-wwm v0.0.0-20220209015526-a4f3b58a30cc/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
 github.com/team-durumi/theme-wwm v0.0.0-20220209020013-5bef6ab594ee h1:gXDKPxvx+33cxBRXB/bPNvbor4ZHUUz4B8Y6k6ktKJU=
 github.com/team-durumi/theme-wwm v0.0.0-20220209020013-5bef6ab594ee/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220210133442-4c96bf20f429 h1:KGD52lkJg2/p/qKL++ZuS3EBNlDNpW/2YXj5sOtriIs=
+github.com/team-durumi/theme-wwm v0.0.0-20220210133442-4c96bf20f429/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220210135245-5d43916d9352 h1:YOkyoRuI1ipNfJNHkmTfQ7MMaSUF3QNVYTwlLdHdS4I=
+github.com/team-durumi/theme-wwm v0.0.0-20220210135245-5d43916d9352/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
