@@ -5,6 +5,6 @@ banner:
   title: 소장품 구두
   summary: 지하전시장
   imageLink: /img/pagebanner/connect/notice.png
-  itemLink: /items/1b1층/지하전시관/l1755048/
+  itemLink: /exhibition/ex-01/section-01/
 invisible: true
 ---
