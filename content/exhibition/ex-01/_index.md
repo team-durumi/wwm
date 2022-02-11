@@ -8,6 +8,6 @@ summary: |
   *실제 박물관 전시 관람시에는 소리(영상)이 재생됩니다.
 
   *현장에서는 오디오 가이드가 별도로 제공됩니다
-image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-01/s2-item1.png
+image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(1)b1층/쇄석길/LHS_0064.jpg
 type: permanent
 ---
