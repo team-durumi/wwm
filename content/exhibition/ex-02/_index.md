@@ -5,9 +5,6 @@ weight: 2
 summary: |
   할머니들의 과거는 여전히 현재와 화해하지 못 한 채 시간만 흐르고 있다. 
   과거의 역사를 들여다보고 이를 극복하기 위해 현재의 우리가 어떤 활동을 하고 있는지 알아본다.
-  
-  *실제 박물관 전시 관람시에는 소리(영상)이 재생됩니다.
-  *현장에서는 오디오 가이드가 별도로 제공됩니다
 image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-02/s0-item1.png
 type: permanent
 ---
