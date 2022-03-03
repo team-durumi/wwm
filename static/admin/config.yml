@@ -189,6 +189,8 @@ collections:
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }      
   - name: 'volunteer'
     label: '자원활동신청'
+    editor:
+      preview: false
     files:
       - name: "volunteer"
         label: '자원활동신청 on/off'
