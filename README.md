@@ -12,3 +12,19 @@ hugo server
 
 - 정의연 netlify 계정에 연결합니다. 
 - https://public.womenandwarmuseum.net
+
+
+## edit contents
+
+```
+                   | KO   
+-------------------+------
+  Pages            | 217  
+  Paginator pages  |   6  
+  Non-page files   |  20  
+  Static files     | 319  
+  Processed images |   0  
+  Aliases          |  17  
+  Sitemaps         |   1  
+  Cleaned          |   2 
+  ``` 
