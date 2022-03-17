@@ -6,7 +6,7 @@ ko:
       body: 화-토, 오전 10시부터 오후 6시까지 (*오후 5시 입장 마감)
     휴관일:
       title: 휴관일
-      body: 일-월, 1/1, 설날·추석 연휴
+      body: 일-월, 1/1
     주소:
       title: 주소
       body: 서울 마포구 월드컵북로 11길 20
@@ -17,6 +17,7 @@ ko:
       title: 안내
       body:
       - 전쟁과여성인권박물관은 코로나19로 인하여 사전 예약제를 운영 (* 예약 시간대에만 입장 가능)
+      - 1회 예약 가능한 인원은 개인 1~4명까지 가능
       - 시간 당 관람 인원을 30명으로 제한합니다. (*선착순 마감)
       - 오디오 가이드[한국어, 영어, 일어] 제공 (*별도의 교육이나 전시 설명은 진행하지 않습니다)
     오시는길:
@@ -30,7 +31,58 @@ ko:
         body:
         - 7013A/B, 7711, 7016, 7737 경성중고, 홍대부속여중고입구 하차
         - 마포 15, 08 마을버스 → 경성중고사거리 하차
-        - ※별도의 주차장이 없으니 대중교통을 이용해주세요.           
+        - ※별도의 주차장이 없으니 대중교통을 이용해주세요.          
+  관람요금:
+    title: 관람요금
+    대인:
+      title: 대인(만19세-만64세)
+      body: 5,000원
+    소인:
+      title: 소인(만7세-만18세)
+      body: 3,000원
+    단체:
+      title: 단체(10인 이상)
+      대인:
+        title: 대인(만19세-만64세)
+        body: 4,000원
+      소인:
+        title: 소인(만7세-만18세)
+        body: 2,000원
+    무료:
+      title: 무료
+      일반:
+        title: 만6세이하, 만65세이상
+      장애인:
+        title: "[장애인 복지법]의 적용을 받는 장애인 및 그와 동행하는 보호자 1명"
+      수급자:
+        title: "[국민기초생활 보장법]에 따른 수급자"
+      박물관기증자: 
+        title: 박물관 기증자 및 특별공로자
+  영문관람요금:
+    대인:
+      title: Age 19-64
+      body: 5,000 won
+    소인:
+      title: Age 7-18
+      body: 3,000 won
+    단체:
+      title: Group(10 people or more)
+      대인:
+        title: Age 19-64
+        body: 4,000 won
+      소인:
+        title: Age 7-18
+        body: 2,000 won
+    무료:
+      title: Free
+      일반:
+        title: Ages 6 and under, Agres 65 and above
+      장애인:
+        title: People with disabilities
+      수급자:
+        title: Dornor to the museum and the Korean Council
+      박물관기증자: 
+        title: Dornor to the museum and the Korean Council              
   소식참여:
     title: 소식/참여
     정기후원신청하기:
@@ -358,7 +410,6 @@ en:
         - 7013A/B, 7711, 7016, 7737 → Get off at Gyeongseong High School intersection
         - Mapo Local Bus Number 15, 08 → Get off at Gyeongseong High School intersection
         - ※ The museum does not have a parking space. Please use public transportation.
-
   온라인예약안내: 
     title: Online Reservation Information
     body_1:
@@ -371,6 +422,9 @@ en:
     - 1. Fill in information of the person making the reservation. The name and contact information of the person making the reservation are required to book tickets.
     - 2. Check the information regarding collection and provision of personal information.
     - 3. Make sure the form is filled out correctly. Click the “Make a reservation” button on the bottom of the page.
+    body_3:
+    - 1. When the reservation is confirmed, you will see the following confirmation message. * If you turn on the ‘Notification’ button below, you can receive a push notification one day before your reserved date.  
+
   예약관련문의: 
     title: Reservation Inquiry
     body: The online reservation page is currently available in Korean and English. Please refer to the guide to make reservations in Japanese. If you have any further questions regarding the reservations, please send us an email at 
@@ -720,6 +774,9 @@ jp:
     - 2. お申込み者の詳細情報を記入してください。お名前と連絡先は必須項目です。
     - 3. 予約のための個人情報収集・提供に関する案内文をご確認ください。
     - 4. ご記入の情報をもう一度ご確認の後、「予約する」のボタンを押してください。
+    body_3:
+    - 1. 予約が確定したら、画像のような案内メッセージが出てきます。
+      ＊案内メッセージの下にある通知の設定をONにすると、予約日の前日に案内の通知が表示されます。
 
   예약관련문의: 
     title: お問い合わせ 
