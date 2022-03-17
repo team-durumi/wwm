@@ -1,6 +1,6 @@
 ---
 title: 미션과비전
-date: 2011-11-17
+date: 2022-11-17
 layout: section_single
 banner:
   title: 첫 수요집회
