@@ -7,5 +7,5 @@ github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6
 github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6/go.mod h1:DDfMJGftuK8bUsDJdl3nM/vlzAvSjVNi2IejQleS5tY=
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93 h1:6kZpUECTDffWJr2CYe0KxgW8LozsSBNwhhmPhNBPpfQ=
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93/go.mod h1:vdKTWy/bSPbxjMX5JeEQg9oJPwrxQDu5I+f2iWfiaR0=
-github.com/team-durumi/theme-wwm v0.0.0-20220317021000-543fa03b739c h1:XslbmqR8JHV0yWHsn5/I94eaGXXPUMc8sQw+uPEaBco=
-github.com/team-durumi/theme-wwm v0.0.0-20220317021000-543fa03b739c/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220317031833-9681a6a260e0 h1:ZBOXFZUAbgvKj7zs79GtVP+1bTETIaInikR98yh9CeE=
+github.com/team-durumi/theme-wwm v0.0.0-20220317031833-9681a6a260e0/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
