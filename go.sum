@@ -9,3 +9,5 @@ github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93 h1:6
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93/go.mod h1:vdKTWy/bSPbxjMX5JeEQg9oJPwrxQDu5I+f2iWfiaR0=
 github.com/team-durumi/theme-wwm v0.0.0-20220317031833-9681a6a260e0 h1:ZBOXFZUAbgvKj7zs79GtVP+1bTETIaInikR98yh9CeE=
 github.com/team-durumi/theme-wwm v0.0.0-20220317031833-9681a6a260e0/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220325121957-9b3c5f9405fc h1:pxPmQI9uP8aBcGeUn25gFEQEumuSrT7KbYBx5zZuQ5I=
+github.com/team-durumi/theme-wwm v0.0.0-20220325121957-9b3c5f9405fc/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
