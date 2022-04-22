@@ -37,12 +37,12 @@ googleFonts:
 cfImagePrefix: 'https://durumi.io/cdn-cgi/image'
 cfImageStyles:
   thumb: 'fit=scale-down,width=300'
-  thumbStores: 'fit=scale-down,width=800'  
+  thumbStores: 'fit=scale-down,width=800'
   full: 'fit=scale-down,width=1920'
 
 stibee:
   accessToken: DONTCOMMIT
-  endpointSubscribe: 'https://page.stibee.com/api/v1.0/lists'  
+  endpointSubscribe: 'https://page.stibee.com/api/v1.0/lists'
   listIdSubscribe: 112752
-  endpointEmailList: 'https://page.stibee.com/archives/105093/emails'  
-  listIdPublic: 105093 
+  endpointEmailList: 'https://page.stibee.com/archives/105093/emails'
+  listIdPublic: 105093
