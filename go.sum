@@ -7,13 +7,5 @@ github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6
 github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6/go.mod h1:DDfMJGftuK8bUsDJdl3nM/vlzAvSjVNi2IejQleS5tY=
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93 h1:6kZpUECTDffWJr2CYe0KxgW8LozsSBNwhhmPhNBPpfQ=
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93/go.mod h1:vdKTWy/bSPbxjMX5JeEQg9oJPwrxQDu5I+f2iWfiaR0=
-github.com/team-durumi/theme-wwm v0.0.0-20220317031833-9681a6a260e0 h1:ZBOXFZUAbgvKj7zs79GtVP+1bTETIaInikR98yh9CeE=
-github.com/team-durumi/theme-wwm v0.0.0-20220317031833-9681a6a260e0/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
-github.com/team-durumi/theme-wwm v0.0.0-20220325121957-9b3c5f9405fc h1:pxPmQI9uP8aBcGeUn25gFEQEumuSrT7KbYBx5zZuQ5I=
-github.com/team-durumi/theme-wwm v0.0.0-20220325121957-9b3c5f9405fc/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
-github.com/team-durumi/theme-wwm v0.0.0-20220417142508-70debdc0c238 h1:gFeGQyz/VQwambrCKvZb+Lf/QUnL3Dv7BzMVUAOT20s=
-github.com/team-durumi/theme-wwm v0.0.0-20220417142508-70debdc0c238/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
-github.com/team-durumi/theme-wwm v0.0.0-20220422132413-490a18735008 h1:EMCc1yeAfAjcy02e0INo76YRfQkXf1elD8yReojqvNo=
-github.com/team-durumi/theme-wwm v0.0.0-20220422132413-490a18735008/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
-github.com/team-durumi/theme-wwm v0.0.0-20220422140316-177ba2f55bbf h1:yznyqTqaXEDr4j3hCYDILmsmxwjBZzA4Cw4Zwgt7okU=
-github.com/team-durumi/theme-wwm v0.0.0-20220422140316-177ba2f55bbf/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20220627010613-a5906fc02303 h1:6cEJJMAjYHDVZXgf30dpDqhm4KdCCk+LyxLOdKKi7JQ=
+github.com/team-durumi/theme-wwm v0.0.0-20220627010613-a5906fc02303/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
