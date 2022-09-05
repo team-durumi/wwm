@@ -4,7 +4,7 @@ subtitle: "또 다른 그녀들의 이야기"
 date: 2021-12-21
 summary: 전쟁 중 엘어나는 여성폭력은 새로운 일이 아니다. 끊이지 않는 전쟁 속에서 여성의 몸이 바로 전쟁터였고 여성에 대한 강간은 '전쟁의무기'(rape as a weapon of war)로 사용되고 있다. 집단 강간, 강간 캠프, 성노예, 강제 매춘, 강제 임신과 불임 등 현대전쟁에서는 보다 조직적이고 전략적으로 여성폭력이 행해지고 있으며 무장세력과 군부, 민병대 등 모든 단위의 전쟁 세력이 이러한 여성폭력을 자행하고 있다.
 weight: 1
-image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(2)1층/상설,기획전시관/LHS_0770.jpg
+image: https://wwm-r2.womenandwar.workers.dev/exhibition/(2)1층/상설,기획전시관/LHS_0770.jpg
 layout: view01
 resources:
 - partial_layout: diagonal-2
@@ -12,13 +12,13 @@ resources:
   - name: 상설관
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(2)1층/상설,기획전시관/LHS_0770.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(2)1층/상설,기획전시관/LHS_0770.jpg
     description: 오늘날 전쟁 속에서 고통 받고 있는 세계 여성들의 이야기가 다양한 사례와 사진을 통해 전시되어 있다. 벽면의 영상을 통해 현재 발생하고 있는 전쟁의 참화를 그대로 살펴 볼 수 있는 공간이다.
     target:
   - name: 상설관
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(2)1층/상설,기획전시관/LHS_0776.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(2)1층/상설,기획전시관/LHS_0776.jpg
     description: 2012년 3월 세계여성의날에 시작된 나비기금에 대한 이야기를 만날 수 있다. 일본군성노예제 피해자인 김복동, 길원옥 할머니와 같은 마음으로 콩고, 베트남 등 전시 성폭력 피해 여성들에게 희망을 전하는 나비기금을 기부할 수 있다.
     target:
 - partial_layout: horizontal-4    
@@ -26,7 +26,7 @@ resources:
     - name: 살던 마을에서 도망쳐 나오는 코소보 난민 여성들
       params:
         icon: photo
-      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+왼편/1-2.73503.jpg
+      src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20왼편/1-2.73503.jpg
       description: ©UN PHOTO/UNHCR/R.LeMoyne
       target: /items/ex-03/상설관/상설관1-왼편/1-2.73503
     - name: 1999년 코소보 내전 당시 인종청소로 죽임을 당한 희생자의 훼손된 시신 앞에서 울고 있는 여인
@@ -38,13 +38,13 @@ resources:
     - name: 코소보 내전 당시 부비트랩(위장폭탄)에 다리를 잃은 13살 소녀
       params:
         icon: photo
-      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+왼편/1-9.31545.jpg
+      src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20왼편/1-9.31545.jpg
       description: ©UN PHOTO/UNHCR/H.J.Davies
       target: /items/ex-03/상설관/상설관1-왼편/1-9.31545
     - name: 코소보 내전 당시의 난민 행렬
       params:
         icon: photo
-      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+왼편/1-3.31544.jpg
+      src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20왼편/1-3.31544.jpg
       description: ©UN PHOTO/UNHCR/H.J.Davies
       target: /items/ex-03/상설관/상설관1-왼편/1-3.31544
 - partial_layout: full-1
@@ -126,7 +126,7 @@ resources:
   - name: 그레이스 아칼로(Grace Akallo)의 이야기
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+왼편/1-13.그레이스+아칼로213713.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20왼편/1-13.그레이스%20아칼로213713.jpg
     description: 그레이스 아칼로(Grace Akallo)는 극적으로 탈출한 뒤 대학에 진학했고 국제사회에 이 문제를 알리기 위해 증언하고 호소하는 활동을 하고 있다. 
     target: items/ex-03/상설관/상설관1+왼편/1-13.그레이스+아칼로213713.jpg
 - partial_layout: full-1

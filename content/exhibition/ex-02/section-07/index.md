@@ -12,7 +12,7 @@ resources:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755718.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755718.jpg
     description: 
     target:
 - partial_layout: diagonal-2
@@ -20,13 +20,13 @@ resources:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755415.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755415.jpg
     description:
     target:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755718.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755718.jpg
     description: 
     target:
 - partial_layout: diagonal-2
@@ -34,41 +34,13 @@ resources:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755719.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755719.jpg
     description:
     target:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755728.jpg
-    description: 
-    target: 
-- partial_layout: diagonal-2
-  components: 
-  - name:
-    params:
-      icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755733.jpg
-    description:
-    target:
-  - name:
-    params:
-      icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755735.jpg
-    description: 
-    target:
-- partial_layout: diagonal-2
-  components: 
-  - name:
-    params:
-      icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755738.jpg
-    description:
-    target:
-  - name:
-    params:
-      icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/L1755745.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755728.jpg
     description: 
     target: 
 - partial_layout: diagonal-2
@@ -76,13 +48,41 @@ resources:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/LHS_1779.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755733.jpg
     description:
     target:
   - name:
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/(3)2층/추모관/LHS_1789.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755735.jpg
+    description: 
+    target:
+- partial_layout: diagonal-2
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755738.jpg
+    description:
+    target:
+  - name:
+    params:
+      icon: photo
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/L1755745.jpg
+    description: 
+    target: 
+- partial_layout: diagonal-2
+  components: 
+  - name:
+    params:
+      icon: photo
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/LHS_1779.jpg
+    description:
+    target:
+  - name:
+    params:
+      icon: photo
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/추모관/LHS_1789.jpg
     description: 
     target:                    
 ---

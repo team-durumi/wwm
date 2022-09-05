@@ -5,7 +5,7 @@ weight: 2
 summary: |
   할머니들의 과거는 여전히 현재와 화해하지 못 한 채 시간만 흐르고 있다. 
   과거의 역사를 들여다보고 이를 극복하기 위해 현재의 우리가 어떤 활동을 하고 있는지 알아본다.
-image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-02/s0-item1.png
+image: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-02/s0-item1.png
 type: permanent
 ---
 

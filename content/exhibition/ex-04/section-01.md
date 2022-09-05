@@ -12,7 +12,7 @@ description:
   
   그럼에도 일본군‘위안부’의 존재를 부정하고 일본군의 관여를 부인하는 일본 정부인사의 망언은 계속된다. 이에 37개 여성단체가 모여 항의서한을 보내고 기자회견을 하지만 일본 정부는 책임을 인정하지 않는다. 조직적 대응을 위한 단체 결성의 필요성이 절실해졌다. 1990년 11월 16일, 〈한교여연〉, 〈정신대연구회〉, 〈한국여성단체연합〉 등 37개 여성운동단체들과 다양한 시민, 종교, 학생 단체들이 참여해 〈한국정신대문제대책협의회〉(이하 정대협)가 결성된다.
 weight: 1
-image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/20_국민모금에+의한+위로금에+반대하는+기자회견.JPG
+image: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/20_국민모금에%20의한%20위로금에%20반대하는%20기자회견.JPG
 layout: special-1
 resources:
 - part: part-1
@@ -39,7 +39,7 @@ resources:
   - year: 1965
     eventDate: 1965 
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/1_한일협정+조인+특별+담화문을+발표하는+박정희+대통령.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/1_한일협정%20조인%20특별%20담화문을%20발표하는%20박정희%20대통령.JPG
     description: 한일청구권협정 체결
     target: items/ex-04/section-01-left/1_한일협정-조인-특별-담화문을-발표하는-박정희-대통령/
     target_title: "한일협정 조인 특별 담화문을 발표하는 박정희 대통령, 1965.6.23., 사진, 출처 국가기록원"
@@ -70,7 +70,7 @@ resources:
   - year: 1984
     eventDate: 1984 
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/2_전두환대통령+일본방문+즈음한+우리의+입장_1.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/2_전두환대통령%20일본방문%20즈음한%20우리의%20입장_1.jpg
     description: "한교여연, 전두환 방일 맞이 '정신대' 문제 해결을 위한 서한 발송"
     target: /items/ex-04/section-01-right/2_전두환대통령-일본방문-즈음한-우리의-입장_1/
     target_title: "전두환대통령 일본방문 즈음한 우리의 입장, 1984.8.23., 문서, 기증 윤영애"
@@ -104,7 +104,7 @@ resources:
   - year: 1988
     eventDate: 1988.2.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/4_좌측부터+윤정옥,+김혜원,+김신실.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/4_좌측부터%20윤정옥,%20김혜원,%20김신실.JPG
     description: "윤정옥·김혜원·김신실, 후쿠오카, 큐슈, 오키나와, 도카시키 섬, 도쿄, 사이타마, 삿포로 등 방문하여 '정신대' 문제 조사"
     target: 
     target_title: "좌측부터 윤정옥, 김혜원, 김신실, 1988.2., 사진"
@@ -119,14 +119,14 @@ resources:
   - year: 
     eventDate: 1988.4.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/5_제주도에서+개최된+'여성과+관광문화'+국제+세미나.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/5_제주도에서%20개최된%20'여성과%20관광문화'%20국제%20세미나.jpg
     description: "윤정옥, 한교여연 주최 '여성과 관광문화' 국제 세미나에서 '정신대' 문제 조사결과 보고"
     target: 
     target_title: "제주도에서 개최된 '여성과 관광문화' 국제 세미나, 1988.4.21-23., 사진"
   - year: 
     eventDate: 1988.4.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/5-2_여성과+관광문화+자료집.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/5-2_여성과%20관광문화%20자료집.jpg
     description: "윤정옥, 한교여연 주최 '여성과 관광문화' 국제 세미나에서 '정신대' 문제 조사결과 보고"
     target: 
     target_title: "여성과 관광문화 자료집, 1998.4.21-23., 문서"
@@ -149,7 +149,7 @@ resources:
   - year: 
     eventDate: 1988.4.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/6_일본+히로히또+국왕+사망에+대한+한국교회여성의+입장.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/6_일본%20히로히또%20국왕%20사망에%20대한%20한국교회여성의%20입장.jpg
     description: "한교여연, '정신대' 문제에 대한 사죄를 요구하는 성명서 발표"
     target: 
     target_title: "일본 히로히또 국왕 사망에 대한 한국교회여성의 입장, 1989.1.23., 문서, 기증 윤영애"    
@@ -168,21 +168,21 @@ resources:
   - year: 1990
     eventDate: 1990.1
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/7_정신대+원혼+서린+발자취+취재기+육필+원고.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/7_정신대%20원혼%20서린%20발자취%20취재기%20육필%20원고.jpg
     description: "윤정옥, 한겨레신문에 '정신대 원혼 서린 발자취 취재기' 연재"
     target: 
     target_title: "정신대 원혼 서린 발자취 취재기 육필 원고, [1990], 문서, 기증 윤정옥" 
   - year: 1990
     eventDate: 1990.5.18.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/8_노태우+대통령+방일+맞이+기자회견.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/8_노태우%20대통령%20방일%20맞이%20기자회견.jpg
     description: "한교여연·여연·여대생대표자협의회, 노태우 대통령 방일 맞이 기자회견 개최, 일본 정부에 사죄 요구 성명서 발표"
     target: 
     target_title: "노태우 대통령 방일 맞이 기자회견, 1990.5.18., 사진"
   - year:
     eventDate: 1990.5.25.
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/2_제1차+한일정상회담에서+노태우+대통령과+가이후+총리.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/2_제1차%20한일정상회담에서%20노태우%20대통령과%20가이후%20총리.JPG
     description: "노태우 대통령, 방일하여 '강제연행 한국인 명단' 공개 요구"
     target: 
     target_title: "제1차 한일정상회담에서 노태우 대통령과 가이후 총리, 1990.5.26., 사진, 출처 국가기록원"
@@ -201,7 +201,7 @@ resources:
   - year:
     eventDate: 1990.10.17.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/9_기자회견+현장.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/9_기자회견%20현장.jpg
     description: "정신대연구회, 37개 여성단체와 함께 기자회견 개최하고 한일 정부에 공개서한 송부 "
     target: 
     target_title: "기자회견 현장, 1990.10.17., 사진" 
@@ -212,7 +212,7 @@ resources:
   - year:
     eventDate: 1990.11.16.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/10_기독교회관으로+사무실을+이전하고+개최한+현판식.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/10_기독교회관으로%20사무실을%20이전하고%20개최한%20현판식.jpg
     description: "37개 여성단체, 한국정신대문제대책협의회(이하 정대협) 결성(회장 윤정옥, 서기 김혜원, 회계 김신실, 실무 윤영애와 방숙자)"
     target: 
     target_title: "기독교회관으로 사무실을 이전하고 개최한 현판식, 1992.11.16., 사진"
@@ -234,7 +234,7 @@ resources:
   - year:
     eventDate: 1991.1.8.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/12_.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/12_.JPG
     description: "정대협, 가이후 도시키 수상 방한 맞이 여성계 입장 성명서 발표 및 시위"
     target: 
     target_title:
@@ -261,7 +261,7 @@ resources:
   - year:
     eventDate: 1991.5.28.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/13_정신대+문제에+관한+강의.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/13_정신대%20문제에%20관한%20강의.JPG
     description: "정대협, 서울에서 '정신대 문제에 관한 강연회' 개최"
     target: 
     target_title: "정신대 문제에 관한 강의, 1991.5.28., 사진"
@@ -272,7 +272,7 @@ resources:
   - year:
     eventDate: 1991.7.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/14_국회+청원을+위해+한교여연에서+열린+기자회견.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/14_국회%20청원을%20위해%20한교여연에서%20열린%20기자회견.JPG
     description: "정대협, 국회에 '정신대문제 해결을 위한 청원서' 제출 "
     target: 
     target_title: "국회 청원을 위해 한교여연에서 열린 기자회견, 1991.7.23., 사진"
@@ -285,7 +285,7 @@ resources:
   - year:
     eventDate: 1991.9.18.
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/3_UN가입+신청을+위한+UN헌장+의무수락선언서에+서명하는+노태우+대통령.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/3_UN가입%20신청을%20위한%20UN헌장%20의무수락선언서에%20서명하는%20노태우%20대통령.JPG
     description: "남북한 UN 동시 가입"
     target: 
     target_title: "UN가입 신청을 위한 UN헌장 의무수락선언서에 서명하는 노태우 대통령, 1991.7.19., 사진, 출처 국가기록원"
@@ -324,7 +324,7 @@ resources:
   - year:
     eventDate: 1991.12.21.
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/4_SEATIC+Interrogation+Bulletin+No.+2(동남아시아번역심문센터+심리전+심문회보+제2호).JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/4_SEATIC%20Interrogation%20Bulletin%20No.%202(동남아시아번역심문센터%20심리전%20심문회보%20제2호).JPG
     description: "일본군의 관여를 증명하는 연합군 문서 발견"
     target: 
     target_title: "SEATIC Interrogation Bulletin No. 2(동남아시아번역심문센터 심리전 심문회보 제2호), 문서, 출처 서울기록원"
@@ -339,21 +339,21 @@ resources:
   - year:
     eventDate: 1992.1.
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/5_陸軍省+軍慰安所従業婦等募集ニ關スル件(군+위안소+종업부+등+모집에+관한+건).JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/5_陸軍省%20軍慰安所従業婦等募集ニ關スル件(군%20위안소%20종업부%20등%20모집에%20관한%20건).JPG
     description: "일본군의 관여를 증명하는 연합군 문서 발견"
     target: 
     target_title: "陸軍省 軍慰安所従業婦等募集ニ關スル件(군 위안소 종업부 등 모집에 관한 건), 문서, 출처 WAM"
   - year:
     eventDate: 1992.1.8.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/15_일본대사관+앞+수요시위+모습.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/15_일본대사관%20앞%20수요시위%20모습.jpg
     description: "정대협, 일본군'위안부' 문제 해결을 위한 정기 수요시위 시작"
     target: 
     target_title: "일본대사관 앞 수요시위 모습, 사진"
   - year:
     eventDate: 1992.1.8.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/16_일본대사관+앞+수요시위에+참석한+김학순.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/16_일본대사관%20앞%20수요시위에%20참석한%20김학순.jpg
     description: "정대협, 일본군'위안부' 문제 해결을 위한 정기 수요시위 시작"
     target: 
     target_title: "일본대사관 앞 수요시위에 참석한 김학순, 사진, 기증 양징자"
@@ -384,14 +384,14 @@ resources:
   - year:
     eventDate: 1992.1.8.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/17_한국,+필리핀,+타이완,+타이,+홍콩,+일본+6개국이+참가한+제1회+아시아연대회의.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/17_한국,%20필리핀,%20타이완,%20타이,%20홍콩,%20일본%206개국이%20참가한%20제1회%20아시아연대회의.jpg
     description: "정대협, 제1차 아시아연대회의 개최"
     target: 
     target_title: "한국, 필리핀, 타이완, 타이, 홍콩, 일본 6개국이 참가한 제1회 아시아연대회의, 1992.8.10~11., 사진"
   - year:
     eventDate: 1992.1.8.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/18_UN+인권소위원회에서+증언하는+황금주.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/18_UN%20인권소위원회에서%20증언하는%20황금주.jpg
     description: "정대협, UN 인권소위원회에서 일본군'위안부' 문제 보고"
     target: 
     target_title: "UN 인권소위원회에서 증언하는 황금주, 사진"
@@ -426,14 +426,14 @@ resources:
   - year:
     eventDate: 1993.6.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/19_'비엔나+세계인권회의에서+발언하는+김복동.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/19_'비엔나%20세계인권회의에서%20발언하는%20김복동.jpg
     description: "정대협, 비엔나 세계인권회의 참석"
     target: 
     target_title: "비엔나 세계인권회의에서 발언하는 김복동, 1993.6., 사진"
   - year:
     eventDate: 1993
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/6_Study+concerning+the+right+to+restitution,+compensation+and+rehabilitation+for+victims+of+gross+violations+of+human+rights+and+fundamental+freedoms.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/6_Study%20concerning%20the%20right%20to%20restitution,%20compensation%20and%20rehabilitation%20for%20victims%20of%20gross%20violations%20of%20human%20rights%20and%20fundamental%20freedoms.JPG
     description: "UN 인권소위원회 특별보고관 테오 반 보벤, '인권과 자유에 중대한 침해를 입은 피해자에 대한 배상과 보상 및 회복의 권리에 관한 연구보고서' 제출"
     target: 
     target_title: "Study concerning the right to restitution, compensation and rehabilitation for victims of gross violations of human rights and fundamental freedoms, 1993.7.2., 문서"
@@ -464,7 +464,7 @@ resources:
   - year:
     eventDate: 1994.9.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/20_국민모금에+의한+위로금에+반대하는+기자회견.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/20_국민모금에%20의한%20위로금에%20반대하는%20기자회견.JPG
     description: "정대협, 일본 민간 위로금(償い金)  반대 기자회견 및 집회 개최"
     target: 
     target_title: "국민모금에 의한 위로금에 반대하는 기자회견, 1994.6., 사진"    
@@ -479,7 +479,7 @@ resources:
   - year:
     eventDate: 1995.7.
     vertical: left
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/7_Working+paper+on+the+situation+of+systematic+rape,+sexual+slavery+and+slavery-like+practices+during+wartime,+including+internal+armed+conflict.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/7_Working%20paper%20on%20the%20situation%20of%20systematic%20rape,%20sexual%20slavery%20and%20slavery-like%20practices%20during%20wartime,%20including%20internal%20armed%20conflict.JPG
     description: "UN 인권소위원회 특별보고관 린다 챠베즈, '전시 하 조직적 강간, 성노예제 및 그와 유사한 관행에 관한 연구보고서' 제출"
     target: 
     target_title: "Working paper on the situation of systematic rape, sexual slavery and slavery-like practices during wartime, including internal armed conflict, 1995.7.13., 문서"
@@ -498,14 +498,14 @@ resources:
   - year:
     eventDate: 1995.9.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/21_1995+여성에+대한+NGO+포럼.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/21_1995%20여성에%20대한%20NGO%20포럼.JPG
     description: "정대협, 베이징 세계여성대회 참석"
     target: 
     target_title: "1995 여성에 대한 NGO 포럼, 1995.9.4.. 사진"
   - year: 1996
     eventDate: 1996
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-left/8_Report+on+the+mission+to+the+Democratic+People’s+Republic+of+Korea,+the+Republic+of+Korea+and+Japan+on+the+issue+of+military+sexual+slavery+in+wartime.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-left/8_Report%20on%20the%20mission%20to%20the%20Democratic%20People’s%20Republic%20of%20Korea,%20the%20Republic%20of%20Korea%20and%20Japan%20on%20the%20issue%20of%20military%20sexual%20slavery%20in%20wartime.JPG
     description: "UN 인권위원회 특별보고관 라디카 쿠마라스와미, '전쟁 중 군대 성노예제 문제에 관한 조선민주주의공화국, 대한민국, 일본 조사 보고서' 제출"
     target: 
     target_title: "Report on the mission to the Democratic People’s Republic of Korea, the Republic of Korea and Japan on the issue of military sexual slavery in wartime, 1996.1.4., 문서"
@@ -528,7 +528,7 @@ resources:
   - year:
     eventDate: 1996.7.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/22_96+평화를위한+증언+집회.JPG
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/22_96%20평화를위한%20증언%20집회.JPG
     description: "정대협, 일본 전역에서 '피해자와 함께하는 국민기금 반대 집회' 개최"
     target: 
     target_title: "96 평화를위한 증언 집회, 1996., 사진"
@@ -547,7 +547,7 @@ resources:
   - year: 1998
     eventDate: 1998.4.
     vertical: right
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-04/section-01-right/23_2000년+일본군성노예전범+여성국제법정+보고서.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/23_2000년%20일본군성노예전범%20여성국제법정%20보고서.jpg
     description: "'제5차 아시아연대회의에서 '2000년 일본군성노예전범 여성국제법정 개최' 결정"
     target: 
     target_title: "2000년 일본군성노예전범 영성국제법정 보고서, 문서"

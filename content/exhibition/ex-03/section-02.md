@@ -4,7 +4,7 @@ subtitle: ": 2000년대의 전쟁"
 date: 2022-01-27
 summary: "새 천년의 문이 열린 직후 전쟁의 포화 소리가 울려 퍼졌던 아프가니스탄과 이라크. 전쟁을 치르는 동안은 물론이고 미국의 종전 선언 후에도 여성들의 고통은 계속되고 있다. 미군을 포함한 점령군의 현지 여성에 대한 강간, 포로 수용소에서의 성고문 범죄는 세계를 경악시켰고, 경찰과 군부는 인권활동가와 사회활동에 참여하고자 하는 여성들을 성폭행했다. 지금도 여성들은 일상에서 생명과 안전에 위험을 느끼며 살아가고 있다."
 weight: 2
-image: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+오른편/2-4.442508.jpg
+image: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-4.442508.jpg
 layout: view01
 resources:
 - partial_layout: diagonal-2
@@ -12,13 +12,13 @@ resources:
   - name: 아프가니스탄 여성
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+오른편/2-4.442508.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-4.442508.jpg
     description: ©UN PHOTO/Luke Powell
     target: /items/ex-03/상설관/상설관1-오른편/2-4.442508
   - name: 레바논 난민 여성과 어린이들 그리고 노인의 모습
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+오른편/2-5.130587.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-5.130587.jpg
     description: ©UN PHOTO/John Isaac
     target: /items/ex-03/상설관/상설관1-오른편/2-5.130587
 - partial_layout: diagonal-2
@@ -26,13 +26,13 @@ resources:
   - name: 전쟁에서 남편을 잃은 채 이슬람 사원 앞에서 구걸하고 있는 아프가니스탄 여성들
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+오른편/2-11..jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-11..jpg
     description: ©김재명
     target: /items/ex-03/상설관/상설관1-오른편/2-11
   - name: 파키스탄 국경 지대의 난민 캠프에서 아이를 안고 서있는 아프가니스탄 여성
     params:
       icon: photo
-    src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+오른편/2-8.84629.jpg
+    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-8.84629.jpg
     description: ©UN PHOTO/Luke Powell
     target: /items/ex-03/상설관/상설관1-오른편/2-8.84629
 - partial_layout: full-1
@@ -44,7 +44,7 @@ resources:
     - name: 이스라엘군의 불도저에 집을 잃고 슬퍼하는 팔레스타인 여성과 두 아들
       params:
         icon: photo
-      src: https://wwm3.s3.ap-northeast-2.amazonaws.com/exhibition/ex-03/상설관/상설관1+오른편/2-4.1.jpg
+      src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-4.1.jpg
       description: ©김재명
       target: /items/ex-03/상설관/상설관1-오른편/2-4.1
 - partial_layout: full-1
