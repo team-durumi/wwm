@@ -5,7 +5,7 @@ date: 2021-08-21
 author: 
 summary: 김학순은 1924년 중국 길림에서 태어났다. 아버지를 일찍 여의고 어머니의 품에 안겨 아버지의 고향 평양에 돌아와 교회에서 운영하는 보통학교를 4학년까지 마친다. 어머니의 재가를 계기로 기생집 수양딸이 되어 평양 기생권번 과정을 마친 후 양아버지와 중국으로 돈벌이를 나서다 베이징에서 일본군에 의해 강제 연행된다. 당시 나이 17세였다. 약 4개월간 일본군위안소에서 모진 고초를 겪다 조선인 조○찬의 도움으로 극적으로 탈출하는 데 성공한다. 그와 함께 중국 일대를 전전하다 상하이에 정착해 두 아이를 출산하고, 해방 이듬해인 1946년 귀국한다.
 weight: 2
-image: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/3_끌려감.jpg
+image: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/3_끌려감.jpg
 layout: special-2
 resources:
 - part: part-1
@@ -13,7 +13,7 @@ resources:
   - year: 1924
     vertical: left
     age: 1세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/1_김학순의%20제적초본.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/1_김학순의%20제적초본.JPG
     description: "1924.10.20. \ 중국 지린 출생, \ 아버지를일찍여읨"
     target:
     target_title: 김학순의 제적초본(구 호적초본), 1980년대, 종이  
@@ -33,14 +33,14 @@ resources:
     age: 15세
     vertical: left
     description: "기생집 수양딸로 보내져 \ 평양 기생권번에 입적 \ *수양딸 : 증언 당시 김학순이 사용한 표현을 차용"
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/2_평양%20기성권번.jpg    
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/2_평양%20기성권번.jpg    
     target: https://www.nfm.go.kr/common/5664887/imageView.do
     target_title: 평양 기성권번   
   - year: 1940 봄
     age: 17세 봄
     vertical: right    
     description: "양아버지와 중국으로 돈벌이를 나서다 일본군에 연행됨 \ * 양아버지: 증언 당시 김학순이 사용한 표현을 차용"
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/3_끌려감.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/3_끌려감.jpg
     target:
     target_title:    
   - year: 1940 가을
@@ -83,14 +83,14 @@ resources:
     vertical: right  
     age: 68세
     description: 1991.7.22. \ 기자회견을 통해 일본군'위안부' 피해를 최초로 공개증언함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/4_김학순%20공개증언%20현장.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/4_김학순%20공개증언%20현장.JPG
     target:
     target_title: 김학순 공개증언 현장, 1991.08.14., 사진   
   - year: 
     vertical: left  
     age: 68세
     description: 1991.7.22. \ 정신대 신고전화 개통식에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/5_신고전화%20개통식에서%20김학순.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/5_신고전화%20개통식에서%20김학순.jpg
     target:
     target_title: 신고전화 개통식에서 김학순, 1991.9.19., 사진
 - part: part-2
@@ -103,21 +103,21 @@ resources:
     vertical: right
     age: 68세
     description: 오사카 '종군위안부 문제와 일본의 전후책임' 기자회견에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/6_제29차%20특별전%20'조선침략과%20강제연행'전%20문화포럼%20참석%20의뢰★.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/6_제29차%20특별전%20'조선침략과%20강제연행'전%20문화포럼%20참석%20의뢰★.jpg
     target: 
     target_title: 제29차 특별전 '조선침략과 강제연행'전 문화포럼 참석 의뢰, 1991.10.16., 종이
   - year:
     vertical: left
     age: 68세
     description: 오사카 '종군위안부 문제와 일본의 전후책임' 기자회견에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/7_일본%20오사카.%20일본%20최초의%20증언집회%20사진(1).jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/7_일본%20오사카.%20일본%20최초의%20증언집회%20사진(1).jpg
     target:
     target_title: 일본 오사카. 일본 최초의 증언집회 사진('"종군위안부 문제와 일본의 전후책임" 기자회견 참석),1991.12.6., 사진, 기증 김혜원
   - year:
     vertical: right
     age: 68세
     description: 오사카 '종군위안부 문제와 일본의 전후책임' 기자회견에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/8_일본%20오사카.%20일본%20최초의%20증언집회%20사진(2).jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/8_일본%20오사카.%20일본%20최초의%20증언집회%20사진(2).jpg
     target:
     target_title: 일본 오사카. 일본 최초의 증언집회 사진('"종군위안부 문제와 일본의 전후책임" 기자회견 참석),1991.12.6., 사진, 기증 김혜원    
   - year:
@@ -140,7 +140,7 @@ resources:
     vertical: right 
     age: 68세
     description: 조선인종군위안부의 증언을 듣는 모임에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/9_조선인%20종군위안부의%20증언을%20듣는%20모임.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/9_조선인%20종군위안부의%20증언을%20듣는%20모임.jpg
     target:
     target_title: "구 조선인 종군위안부의 증언을 듣는 모임(주최: 12.12실행위원회), 1991.12.12., 사진"
   - year:
@@ -151,7 +151,7 @@ resources:
     vertical: right
     age: 68세
     description: 일본의 전후책임을 생각하는 효고의 모임에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/10_일본의%20전후책임을%20생각하는%20효고%20모임.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/10_일본의%20전후책임을%20생각하는%20효고%20모임.jpg
     target:
     target_title: 일본의 전후책임을 생각하는 효고 모임, 1991.12.15., 사진  
   - year: 1991
@@ -166,14 +166,14 @@ resources:
     vertical: left  
     age: 69세
     description: 한국여성단체연합 주최 제8회 한국여성대회에서 '올해의 여성상'을 수상함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/11_올해의%20여성상%20수상하는%20김학순.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/11_올해의%20여성상%20수상하는%20김학순.JPG
     target:
     target_title: 올해의 여성상 수상하는 김학순, 1992.3.8., 사진
   - year:
     vertical: right  
     age: 69세
     description: 정신대할머니자치모임 '무궁화자매회'를 결성하고 총무를 담당함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/12_1992년%20경로제에서%20김학순.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/12_1992년%20경로제에서%20김학순.jpg
     target:
     target_title: 1992년 경로제에서 김학순, 일본군'위안부' 피해자들의 모임인 무궁화자매회가 결정되었다, 1992.5.1., 사진
   - year:
@@ -196,28 +196,28 @@ resources:
     vertical: left 
     age: 69세
     description: 제1차 아시아연대회의에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/13_아시아연대회의에%20참석한%20김학순.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/13_아시아연대회의에%20참석한%20김학순.jpg
     target:
     target_title: 아시아연대회의에 참석한 김학순, 1992.8.10.-11., 사진
   - year:
     vertical: right  
     age: 69세
     description: 제1차 아시아연대회의에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/13-2_제1차%20아시아연대회의%20보고서.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/13-2_제1차%20아시아연대회의%20보고서.jpg
     target:
     target_title: 제1차 아시아연대회의 보고서, 1992, 문서
   - year:
     vertical: left  
     age: 69세
     description: 도쿄 전후보상국제공청회에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/14_일본의%20전후%20보상에%20관한%20국제%20공청회.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/14_일본의%20전후%20보상에%20관한%20국제%20공청회.jpg
     target:
     target_title: 일본의 전후 보상에 관한 국제 공청회, 1992.12.9., 사진
   - year:
     vertical: right  
     age: 69세
     description: UN 인권소위원 특별보고관 테오 반 보벤과의 간담회에 참석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/15_테오%20반%20보벤과의%20간담회.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/15_테오%20반%20보벤과의%20간담회.JPG
     target:
     target_title: 테오 반 보벤과의 간담회, 1992.12.11, 사진
   - year: 1992
@@ -232,13 +232,13 @@ resources:
     vertical: left  
     age: 70세
     description: 제9차 재판을 위해 도쿄지방재판소에 출석함
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/16_도쿄%20기자회견.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/16_도쿄%20기자회견.JPG
     target:
     target_title: 1994, 사진
   - year: 1994
     vertical: right 
     age: 71세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/17_전후보상%206.6집회에서%20발언하는%20김학순.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/17_전후보상%206.6집회에서%20발언하는%20김학순.JPG
     description: 전후보상 6.6집회에 참석함
     target:
     target_title: 전후보상 6.6집회에서 발언하는 김학순, 1994.6.6., 사진   
@@ -249,35 +249,35 @@ resources:
   - year:
     vertical: right 
     age: 71세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/18_'94%20전후보상%20국제포럼(1).jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/18_'94%20전후보상%20국제포럼(1).jpg
     description: 전후보상 국제포럼에 참석함
     target:
     target_title: 94 전후보상 국제포럼, 1994, 사진, 기증 양징자
   - year:
     vertical: left  
     age: 71세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/19_'94%20전후보상%20국제포럼(2).jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/19_'94%20전후보상%20국제포럼(2).jpg
     description: 전후보상 국제포럼에 참석함
     target:
     target_title: 94 전후보상 국제포럼, 1994, 사진, 기증 양징자(2)
   - year:
     vertical: right  
     age: 71세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/20_일본국회%20앞%20전후보상%20촉구%20단식투쟁.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/20_일본국회%20앞%20전후보상%20촉구%20단식투쟁.jpg
     description: 일본국회 앞 전후보상 촉구 단식투쟁에 참여함
     target:
     target_title: 일본국회 앞 전후보상 촉구 단식투쟁, 1994.09., 사진
   - year:
     vertical: left  
     age: 71세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/21_구리하라%20께이꼬가%20김학순에게%20쓴%20편지.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/21_구리하라%20께이꼬가%20김학순에게%20쓴%20편지.JPG
     description: 일본국회 앞 전후보상 촉구 단식투쟁에 참여함
     target:
     target_title: "구리하라 께이꼬가 김학순에게 쓴 편지, 오사카의 기자 구리하라 께이꼬가  김학순에게 쓴 편지. 사진과 월간지 창우신문 10월호를 함께 동봉함, 1994.10.25., 문서"
   - year:
     vertical: right  
     age: 71세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/22_창우신문%201994년%2010월호.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/22_창우신문%201994년%2010월호.JPG
     description: 일본국회 앞 전후보상 촉구 단식투쟁에 참여함
     target:
     target_title: "창우신문 1994년 10월호, 구 '위안부' 눈물의 단식 투쟁 / 한국인 할머니들 6명 개인보상 요구, 1994.10.20., 문서"
@@ -296,7 +296,7 @@ resources:
   - year: 1996
     vertical: right  
     age: 73세
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/23_.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/23_.JPG
     description: 일본국회 앞 전후보상 촉구 단식투쟁에 참여함
     target:
     target_title: " 일본국회 앞 전후보상 촉구 단식투쟁에 참여함, 1996.10.18., 사진"
@@ -311,14 +311,14 @@ resources:
   - year: 1997
     vertical: left
     age: "74세 1997.12.16."
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/24_우리여성네트워크가%20김학순에게%20쓴%20추도문.png
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/24_우리여성네트워크가%20김학순에게%20쓴%20추도문.png
     description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
     target:
     target_title: "우리여성네트워크가 김학순에게 쓴 추도문, 1997.12.18., 문서"
   - year: 1997
     vertical: right
     age: "74세 1997.12.16."
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-02/25_김학순%20장례식%20참가자%20일동이%20작성한%20추도문.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/25_김학순%20장례식%20참가자%20일동이%20작성한%20추도문.jpg
     description: 병원에서 6개월간 투병하다 지병인 천식으로 사망함
     target:
     target_title: "김학순 장례식 참가자 일동이 작성한 추도문 ; 고 김학순 할머니 이제 평안하십시오, 1997.12.18., 문서"

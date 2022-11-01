@@ -4,7 +4,7 @@ subtitle: ": 그녀의 일생"
 date: 2021-12-21
 summary: 전쟁터와 위안소를 배경으로 할머니들의 고통스런 삶이 녹아있는 지하 전시관에 들어선다. 그 곳에서는 티켓으로 인연을 맺은 할머니를 영상으로 만난다. 어둡고 좁은 공간을 통해 피해자들이 겪어야 했던 세상과의 단절, 역사의 무게감을 느낀다.
 weight: 4
-image: https://wwm-r2.womenandwar.workers.dev/exhibition/(1)b1층/지하전시관/LHS_0114.jpg
+image: https://r2.womenandwarmuseum.net/exhibition/(1)b1층/지하전시관/LHS_0114.jpg
 layout: view01
 resources:
 - partial_layout: full-1
@@ -12,7 +12,7 @@ resources:
     - name:
       params:
         icon: photo
-      src: https://wwm-r2.womenandwar.workers.dev/exhibition/(1)b1층/지하전시관/LHS_0114.jpg
+      src: https://r2.womenandwarmuseum.net/exhibition/(1)b1층/지하전시관/LHS_0114.jpg
       description:
       target: /items/1b1층/지하전시관/lhs_0086/
 - partial_layout: diagonal-2
@@ -34,13 +34,13 @@ resources:
   - name:
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(1)b1층/지하전시관/LHS_0076.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/(1)b1층/지하전시관/LHS_0076.jpg
     description: 
     target: /items/1b1층/지하전시관/lhs_0076/
   - name:
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(1)b1층/지하전시관/LHS_0081.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/(1)b1층/지하전시관/LHS_0081.jpg
     description:
     target: /items/1b1층/지하전시관/lhs_0081/
 - partial_layout: full-1

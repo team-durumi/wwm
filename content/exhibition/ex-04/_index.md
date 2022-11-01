@@ -5,6 +5,6 @@ summary: |
   故김학순 공개증언 30주년 기념전시
   
   김학순은 1924년 중국 길림에서 태어났다. 아버지를 일찍 여의고 어머니의 품에 안겨 아버지의 고향 평양에 돌아와 교회에서 운영하는 보통학교를 4학년까지 마친다. 어머니의 재가를 계기로 기생집 수양딸이 되어 평양 기생권번 과정을 마친 후 양아버지와 중국으로 돈벌이를 나서다 베이징에서 일본군에 의해 강제 연행된다. 
-image: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-04/section-01-right/16_일본대사관%20앞%20수요시위에%20참석한%20김학순.jpg
+image: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-01-right/16_일본대사관%20앞%20수요시위에%20참석한%20김학순.jpg
 type: special
 ---

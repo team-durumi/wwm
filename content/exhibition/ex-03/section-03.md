@@ -4,7 +4,7 @@ subtitle: ": 끝없는 분쟁과 강간"
 date: 2022-01-27
 summary: "지난 30년 간 아프리카는 가장 많은 분쟁을 겪었다. 그만큼 분쟁과 관련된 성폭력이 가장 많이 일어난 곳이기도 하다. 르완다 내전에서 강간을 당한 수많은 여성들은 원치 않는 임신과 에이즈 감염으로 끔찍한 운명에 처해졌으며, 태어난 아이들마저 에이즈에 감염되는 비극을 맞았다. 르완다뿐만 아니라 다르푸르, 콩고 등에서 성폭력은 전쟁의 전략으로 광범위하게 사용되었다. 부룬디, 챠드, 콩고, 르완다, 시에라리온, 수단 등에서는 여성들이 강간을 당하거나 성기에 외상을 입어 발생하는 외상성 '누관'이 보고되고 있다. 특히 지금도 수많은 강간이 일어나고 있는 콩고 동부에서는 여성들이 가족과 주민들이 보는 앞에서 공개적으로 강간당하고 있다. 콩고민주공화국에서는 매 시간마다 48명, 즉 매일 1,100명 이상의 여성들이 강간을 당하고 있다는 통계가 발표되기도 했다. UN은 이러한 콩고민주공화국을 가리켜 '세계 강간의 수도'라 칭하고 있다."
 weight: 3
-image: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-1.마시카.jpg
+image: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-1.마시카.jpg
 layout: view01
 resources:
 - partial_layout: diagonal-2
@@ -12,13 +12,13 @@ resources:
   - name: "'누관'치료를 받기 위해 병원을 찾은 수단 여성"
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-6.233463.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-6.233463.jpg
     description: ©UN PHOTO/Tim McKulka
     target: /items/ex-03/상설관/상설관1-오른편/2-6.233463
   - name: 콩고의 강간 피해자 여성병동에 있는 7살 소녀
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-2.14.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-2.14.jpg
     description: ©정은진
     target: /items/ex-03/상설관/상설관1-오른편/2-2.14
 - partial_layout: diagonal-2
@@ -26,13 +26,13 @@ resources:
   - name: 20살에 이미 4명의 아이를 낳은 F는 어머니, 할머니 그리고 9살의 어린 여동생까지 강간을 당했다.
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-3.DR%20Kongo-2_Cornelia%20Suhan-medica%20mondiale.JPG
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-3.DR%20Kongo-2_Cornelia%20Suhan-medica%20mondiale.JPG
     description: ©Cornelia Suhan/medica mondiale
     target: /items/ex-03/상설관/상설관1-오른편/2-3.DR%20Kongo-2_Cornelia%20Suhan-medica%20mondiale
   - name: 병원에서 치료를 받고 있는 콩고의 성폭력 피해 여성들
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-9.160026.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-9.160026.jpg
     description: ©UN PHOTO/Marie Frechon
     target: /items/ex-03/상설관/상설관1-오른편/2-9.
 - partial_layout: full-1
@@ -40,7 +40,7 @@ resources:
   - name: 수단 내전에서 부상을 입은 여성
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-7.133843.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-7.133843.jpg
     description: ©UN PHOTO/Tim McKulka
     target: /items/ex-03/상설관/상설관1-오른편/2-7.133843
 - partial_layout: full-1
@@ -59,6 +59,6 @@ resources:
     params:
       icon: interview
     description: "'제 삶을 끝내자고 여러번, 정말 많이 생각했어요. 하지만 그럴 때마다 제가 입양한 아이들과 도움이 필요한 여성들을 보면서 그런 생각을 떨쳐 버렸습니다.' ©http://masikarebeca.wordpress.com"
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/ex-03/상설관/상설관1%20오른편/2-1.마시카.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/ex-03/상설관/상설관1%20오른편/2-1.마시카.jpg
     target: /items/ex-03/상설관/상설관1-오른편/2-1.마시카                 
 ---

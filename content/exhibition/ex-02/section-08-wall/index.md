@@ -12,7 +12,7 @@ resources:
   - name: 빼앗긴 순정
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/그림자료/LHS_0247.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/(3)2층/그림자료/LHS_0247.jpg
     description: 강덕경(1995), 37cm x 53cm / 색연필
     target:
 - partial_layout: full-1
@@ -20,7 +20,7 @@ resources:
   - name: 위안부 할머니II
     params:
       icon: photo
-    src: https://wwm-r2.womenandwar.workers.dev/exhibition/(3)2층/그림자료/LHS_0257.jpg
+    src: https://r2.womenandwarmuseum.net/exhibition/(3)2층/그림자료/LHS_0257.jpg
     description: 강현두(2008) / 73cmX54cm / 수채화 
     target:
 ---

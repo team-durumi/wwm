@@ -5,7 +5,7 @@ weight: 3
 summary: |
   지구상에는 전쟁이 계속되는 한 여성에 대한 폭력은 사라지지 않는다. 
   세계 속으로 시야를 넓혀 동시대 다른 공간 속에 살고 있는 또 다른 그녀들의 아픔을 바라본다.
-image: https://wwm-r2.womenandwar.workers.dev/exhibition/(2)1층/상설,기획전시관/LHS_0786.jpg
+image: https://r2.womenandwarmuseum.net/exhibition/(2)1층/상설,기획전시관/LHS_0786.jpg
 tags:
 type: permanent
 ---
