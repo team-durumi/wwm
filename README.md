@@ -36,6 +36,17 @@ Total in 9298 ms
 - 정의연 netlify 계정을 최종 Production 서비스로 사용합니다.(zwoo@womenandwar.net)
 - https://womenandwarmuseum.net
 
+## R2
+- media.womenandwar.net
+| - 관련된 파일관리와 연결해서 홈페이지, 박물관, 함께사용
+| - https://media.womenandwar.net/logo/womenandwar_logo.png
+- 박물관 소장자료 및 item 파일들의 이동
+| - https://r2.womenandwarmuseum.net/ 
+- 홈페이지 워드프레스 파일 이동
+| - https://r2.womenandwar.net/ 
+- 관련된 요금 (cloudflare - 정의연 계정)
+
+
 ## ops 2022
 
 - ops free(~ 2023.02)
