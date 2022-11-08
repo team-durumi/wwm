@@ -36,6 +36,27 @@ collections:
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
+  - name: 'stores'
+    label: '뮤지엄샵'
+    folder: 'content/guide/stores'
+    create: true
+    slug: '{{slug}}' 
+    editor:
+      preview: false
+    fields:
+      - { label: '제목', name: 'title', widget: 'string' }
+      - { label: '가격', name: 'price', widget: 'string' }
+      - { label: '구매신청링크', name: 'buying_link', widget: 'string' }
+      - { label: '요약', name: 'summary', widget: 'string', required: false }
+      - { label: '대표이미지', name: 'featured', widget: 'image', required: false }
+      - label: "세부사진목록"
+        name: "components"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - { label: '본문', name: 'body', widget: 'markdown' }     
   - name: 'featured'
     label: '이달의 기록'
     folder: 'content/archive/featured'
