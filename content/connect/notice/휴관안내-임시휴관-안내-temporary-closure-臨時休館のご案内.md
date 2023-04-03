@@ -3,8 +3,8 @@ title: "[휴관안내] 임시휴관 안내 Temporary Closure 臨時休館のご�
 author: 관리자
 date: 2022-11-03T01:38:07.741Z
 image: /img/박물관임시휴관안내.jpg
-home_sticky: true
-pinned: true
+home_sticky: false
+pinned: false
 ---
 전쟁과여성인권박물관에서 임시 휴관 안내 드립니다.
 
