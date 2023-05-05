@@ -382,14 +382,14 @@ resources:
     vertical: right
     description: "북한 '종군위안부 및 태평양전쟁 피해자 보상대책위원회' 발족"
   - year:
-    eventDate: 1992.1.8.
+    eventDate: 1992.8.
     vertical: right
     src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-01-right/17_한국,%20필리핀,%20타이완,%20타이,%20홍콩,%20일본%206개국이%20참가한%20제1회%20아시아연대회의.jpg
     description: "정대협, 제1차 아시아연대회의 개최"
     target: 
     target_title: "한국, 필리핀, 타이완, 타이, 홍콩, 일본 6개국이 참가한 제1회 아시아연대회의, 1992.8.10~11., 사진"
   - year:
-    eventDate: 1992.1.8.
+    eventDate: 1992.8.
     vertical: right
     src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-01-right/18_UN%20인권소위원회에서%20증언하는%20황금주.jpg
     description: "정대협, UN 인권소위원회에서 일본군'위안부' 문제 보고"
