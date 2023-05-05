@@ -304,7 +304,7 @@ resources:
   - year:
     eventDate: 1991.12.
     vertical: right
-    description: "문옥주·김옥선, 정대협에 일본군'위안부' 피해 신고"
+    description: "문옥주·김복선, 정대협에 일본군'위안부' 피해 신고"
   - year:
     eventDate: 1991.12.6.
     vertical: right
