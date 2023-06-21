@@ -356,7 +356,7 @@ resources:
     src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-01-right/16_일본대사관%20앞%20수요시위에%20참석한%20김학순.jpg
     description: "정대협, 일본군'위안부' 문제 해결을 위한 정기 수요시위 시작"
     target: 
-    target_title: "일본대사관 앞 수요시위에 참석한 김학순, 사진, 기증 양징자"
+    target_title: "일본대사관 앞 수요시위에 참석한 김학순, 사진, 기증 시바자키 하루코"
   - year:
     eventDate: 1992.1.13.
     vertical: left
