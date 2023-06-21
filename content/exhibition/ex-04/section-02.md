@@ -252,14 +252,14 @@ resources:
     src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/18_'94%20전후보상%20국제포럼(1).jpg
     description: 전후보상 국제포럼에 참석함
     target:
-    target_title: 94 전후보상 국제포럼, 1994, 사진, 기증 양징자
+    target_title: 94 전후보상 국제포럼, 1994, 사진, 기증 시바자키 하루코
   - year:
     vertical: left  
     age: 71세
     src: https://r2.womenandwarmuseum.net/exhibition/ex-04/section-02/19_'94%20전후보상%20국제포럼(2).jpg
     description: 전후보상 국제포럼에 참석함
     target:
-    target_title: 94 전후보상 국제포럼, 1994, 사진, 기증 양징자(2)
+    target_title: 94 전후보상 국제포럼, 1994, 사진, 기증 시바자키 하루코
   - year:
     vertical: right  
     age: 71세
