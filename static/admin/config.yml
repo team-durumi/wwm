@@ -51,12 +51,12 @@ collections:
       - { label: '대표이미지', name: 'featured', widget: 'image', required: false }
       - label: "세부사진목록"
         name: "components"
-        widget: "image"
+        widget: "list"
         required: false
         media_library:
           config:
             multiple: true
-      - { label: '본문', name: 'body', widget: 'markdown' }     
+      - { label: '본문', name: 'body', widget: 'markdown' }
   - name: 'featured'
     label: '이달의 기록'
     folder: 'content/archive/featured'
