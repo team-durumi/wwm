@@ -1,6 +1,6 @@
 ---
 weight: "1"
-upper_message: 한국, 독일, 일본 현대미술작가들과 함께 하는
+upper_message: 한국, 독일, 일본 현대미술작가들과 함께 하는 '기억 문화'
 title: YELLOW MEMORY 특별전
 date: 2023-09-01T02:55:51.957Z
 image: /img/photo_2023-09-01_12-15-42-2-.jpg
