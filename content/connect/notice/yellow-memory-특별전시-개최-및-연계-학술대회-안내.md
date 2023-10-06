@@ -5,7 +5,7 @@ date: 2023-08-31T01:50:31.443Z
 summary: 전쟁과여성인권박물관은 9월 1일부터 식민지역사박물관, 독일Art5예술협회와 함께 세계적으로 주목받는 한국, 독일, 일본의
   현대미술작가들을 초대하여 Yellow Memory 특별전시를 개최합니다.
 image: /img/옐로우메모리포스터.jpg
-home_sticky: true
+home_sticky: false
 pinned: false
 ---
 ▶ **전쟁과여성인권박물관은 9월 1일부터 식민지역사박물관, 독일Art5예술협회와 함께 세계적으로 주목받는** 
