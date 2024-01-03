@@ -1,6 +1,6 @@
 ---
 reference_code: null
-price: 4,000원
+price: 5,000원
 summary: null
 modified_at: null
 created_at: null
@@ -19,4 +19,4 @@ image: null
 description: null
 buying_link: https://docs.google.com/forms/d/e/1FAIpQLSc9nedLjpcX4QsqHfsDClSUvnY_z8JjKZMrkfDJmnqozNUliA/viewform
 ---
-  함께평화뺏지﻿ 4,000원
+  함께평화뺏지﻿ 5000원
